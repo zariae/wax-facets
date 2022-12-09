@@ -18,6 +18,9 @@ Keywords for Black Louisiana is a *digital humanities project* where we focus on
 2. Use **keywords** to link together different actors and stories
 3. Re-mix and re-imagine digital tools like [Airtable](https://airtable.com/invite/l?inviteId=invE5oVIVOzH6gSe1&inviteToken=12bb5558549f3dfc3b05fa4d19600a07a33372751c12d71913f34dab553be86a&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
 
+---
+
+Thanks for these fun **changes** Chenise! Digital team *is the best*!
 
 ---
 
