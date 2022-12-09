@@ -22,6 +22,8 @@ Keywords for Black Louisiana is a *digital humanities project* where we focus on
 
 Thanks for these fun **changes** Chenise! Digital team *is the best*!
 
+We are in a site design **meeting**
+
 ---
 
 ## Keywords Black Louisiana
