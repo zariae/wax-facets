@@ -21,6 +21,15 @@ Keywords for Black Louisiana is a *digital humanities project* where we focus on
 
 ---
 
+## Keywords Black Louisiana
+**Digital portals into the history of Africans and people of African descent in Gulf Coast Louisisana**
+> "The truth is like fire, you can't sit on it forever" 
+*Ibrahima Seck*
+'what is code?'
+
+---
+
+[Legacies of American Slavery: Music w/ Kathe Hambrick] (https://www.youtube.com/watch?v=a1kwREncep0)
 
 #### Working with unnumbered lists is an interesting exercise
 
