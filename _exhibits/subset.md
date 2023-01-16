@@ -14,14 +14,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 The gallery below includes the subset of all portraits in the larger qatar collection. In this example there is no facet menu. The item cards are mostly static. 
 
-{% include gallery.html collection='qatar' field='object_type' value='portrait' num_column=4 %}
+{% include gallery.html collection='keywords' field='object_type' value='portrait' num_column=4 %}
 
 
 ## Subset Collection with Facets
 
 The gallery below includes the subset of all manuscripts in the larger qatar collection. Just as you with the larger collection, you can facet the collection by other criteria. The gallery will dynamically change to reflect your selections.
 
-{% include gallery.html collection='qatar' field='object_type' value='manuscript' facet_by='location|current_location' num_column=4 %}
+{% include gallery.html collection='keywords' field='object_type' value='manuscript' facet_by='location|current_location' num_column=4 %}
 
 
 
