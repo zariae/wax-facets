@@ -21,7 +21,7 @@ The first step before creating a facet gallery on any one of your pages is to ad
 
 Next, we tell _Facets_ what collection gallery to insert and what columns to facet by with a Jekyll `include` command that brings in the gallery at the desired place on the page. This `include` snippet requires a `collection:` variable and a `facet_by:` variable. You can also pass an optional variable to control the number of columns displayed on large screens: `num_column:`. This theme already comes with the following example in the [Browse](/collection/) page. In order to use it, just replace the sample values with your own when editing the page:
 
-`{% raw %}{% include gallery.html collection='qatar' facet_by='object_type|location|tags*' num_column=4 %}{% endraw %}`
+`{% raw %}{% include gallery.html collection='keywords' facet_by='object_type|location|tags*' num_column=4 %}{% endraw %}`
 
 Notice that instead of the original `collection_gallery.html` we use `gallery.html`.
 
@@ -29,9 +29,9 @@ For the `facet_by:` variable, specify one or more field names in a pipe-separate
 
 ## ... use facets with multiple-value entries
 
-Say for example you're trying to use tags in your project, or describe cultural objects that may or may not be in multiple languages. In our qatar data we have a tags column with entries like `text,text|people,flora|people|fauna`. Some of these entries have only one value, some have several. Facets allows you to isolate all the unique individual values and create a facet selection form based on them.  In order to command facets to treat a particular facet as multi-value, just add an asterisk (`*`) to the facet in your `facet_by:` variable, as in the example from the Browse page:
+Say for example you're trying to use tags in your project, or describe cultural objects that may or may not be in multiple languages. In our keywords data we have a tags column with entries like `text,text|people,flora|people|fauna`. Some of these entries have only one value, some have several. Facets allows you to isolate all the unique individual values and create a facet selection form based on them.  In order to command facets to treat a particular facet as multi-value, just add an asterisk (`*`) to the facet in your `facet_by:` variable, as in the example from the Browse page:
 
-`{% raw %}{% include gallery.html collection='qatar' facet_by='object_type|location|tags*' num_column=4 %}{% endraw %}`
+`{% raw %}{% include gallery.html collection='keywords' facet_by='object_type|location|tags*' num_column=4 %}{% endraw %}`
 
 Notice that in this case, `tags*` has an asterisk. Our default separator for multi-value categories is the pipe (`|`), but you can change this preference at the top of the `gallery.html` file in the `_includes` folder.
 
@@ -39,13 +39,13 @@ Notice that in this case, `tags*` has an asterisk. Our default separator for mul
 
 _Facets_ also allows you to create galleries for subsets of your collections. A subset collection will only include items that have [a truthy value](https://shopify.github.io/liquid/filters/where/) for that specific "field value." Consider the first example we use in '[Exhibit with Subset Collection](/exhibits/subset/)':
 
-`{% raw %}{% include gallery.html collection='qatar' field='object_type' value='portrait' num_column=4 %}{% endraw %}`
+`{% raw %}{% include gallery.html collection='keywords' field='object_type' value='portrait' num_column=4 %}{% endraw %}`
 
 The gallery that results from this instruction only shows portraits. This `include` command is slightly different than the one for browsing the whole collection. They both share a `collection:` and a `num_column:` variable. To use this `include`, though, you need to declare a `field:` variable. This is equivalent to a column from your data. Then you pick the `value:` that you want to limit results to. 
 
 The `facet_by:` is optional. If we don't want to facet further, as in this case, we simply leave it out. In the second example on the same page, we create a subset based on one category and `facet_by` two others, `location` and `current_location`.
 
-`{% raw %}{% include gallery.html collection='qatar' field='object_type' value='manuscript' facet_by='location|current_location' num_column=4 %}{% endraw %}`
+`{% raw %}{% include gallery.html collection='keywords' field='object_type' value='manuscript' facet_by='location|current_location' num_column=4 %}{% endraw %}`
 
 
 ## ... change our design
@@ -71,6 +71,6 @@ In theory, Facets should be able to be transferred to another Wax theme followin
 
 N.B. Make sure to call the right file in your `include` command. Notice we're calling it `gallery.html` and not `collection_gallery.html` as we would normally. Ex:\\
 \\
-`{% raw %}{% include gallery.html collection='qatar' facet_by='object_type' num_column=4 %}{% endraw %}`
+`{% raw %}{% include gallery.html collection='keywords' facet_by='object_type' num_column=4 %}{% endraw %}`
 
 After these steps you might still want to tweak the final results. For example, if you're transferring to the original Wax theme, you might want to tweak the font size and the bottom margin on the buttons. We'll leave the final pixel-pushing to you.
