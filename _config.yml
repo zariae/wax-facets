@@ -21,7 +21,7 @@ baseurl: "/keywords"
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  keywords: # name of collection
     output: true # makes sure pages are output as html files
     layout: "keywords_item" # the layout for the pages to use
     metadata:
@@ -41,7 +41,7 @@ search:
   main:
     index: "/search/index.json" # file the index will get written to
     collections:
-      qatar:
+      keywords:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
           - artist
