@@ -1,12 +1,13 @@
 title: Keywords
 subtitle: for Black Louisiana
-author:
-  name: Wax user
-  email: your-email@domain.com
-description:
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+authors:
+  Chenise:
+    name: Chenise Calhoun
+    github: chenisecal429
+  Jamya:
+    name: Jamya Davis
+    github: jdcherelle
+description: 'Kinship and Longing: Keywords for Black Louisiana brings to light evidence of Black life and Black history through annotated transcriptions and translations of French and Spanish colonial documents from 18th century Louisiana'
 baseurl: "/keywords"
 gallery: True
 
@@ -26,7 +27,7 @@ collections:
     output: true
   keywords: # name of collection
     output: true # makes sure pages are output as html files
-    layout: "keywords_item" # the layout for the pages to use
+    layout: "keywords_item.html" # the layout for the pages to use
     metadata:
       source: "keywords.csv" # path to the metadata file within `_data`
     images:
@@ -45,17 +46,23 @@ search:
     index: "/search/index.json" # file the index will get written to
     collections:
       keywords:
-        content: true # whether or not to index page content
+        content: false # whether or not to index page content
         fields: # the metadata fields to index
+          - pid
+          - label
           - filing_date
+          - full_index
           - doc_origin
           - language
           - archive
+          - governing_body
           - names_black
           - names_white
           - names_native
           - doc_type
           - keywords
+
+
 
 
 # --------------------------------------------------------------
@@ -66,19 +73,22 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: "Exhibits"
-    sub:
-      - label: "Parallax Images"
-        link: "/exhibits/parallax/"
-      - label: "Image References"
-        link: "/exhibits/references/"
-      - label: "Subset Collection"
-        link: "/exhibits/subset/"
-  - label: "Browse"
+  - label: "About Us"
+    link: "/about/"
+  - label: "Our Team"
+    link: "/team/"
+ # - label: "Documents"
+ #   sub:
+ #     - label: "Parallax Images"
+ #       link: "/exhibits/parallax/"
+ #     - label: "Image References"
+ #       link: "/exhibits/references/"
+ #     - label: "Subset Collection"
+ #       link: "/exhibits/subset/"
+  - label: "Documents"
     link: "/collection/"
   - label: "Search"
     link: "/search/"
-  - label: "How To"
-    link: "/learning/"
-  - label: "About"
-    link: "/about/"
+  - label: "Contact Us"
+    link: "/contact/"
+
