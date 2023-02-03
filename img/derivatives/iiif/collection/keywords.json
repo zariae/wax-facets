@@ -28,6 +28,16 @@ layout: none
       "label": "d0210"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0218/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0218"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0035/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0035"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0129/manifest.json",
       "@type": "sc:Manifest",
       "label": "d0129"

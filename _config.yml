@@ -1,5 +1,5 @@
-title: Keywords
-subtitle: for Black Louisiana
+title: Kinship and Belonging
+subtitle: Keywords for Black Louisiana
 authors:
   Chenise:
     name: Chenise Calhoun
@@ -7,6 +7,9 @@ authors:
   Jamya:
     name: Jamya Davis
     github: jdcherelle
+  Ellie:
+    name: Ellie Palazzolo
+    github: egpalazzolo
 description: 'Kinship and Longing: Keywords for Black Louisiana brings to light evidence of Black life and Black history through annotated transcriptions and translations of French and Spanish colonial documents from 18th century Louisiana'
 baseurl: "/keywords"
 gallery: True

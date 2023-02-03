@@ -6,14 +6,14 @@ permalink: /about/
 
 ### Project Overview
 
-[Read more (/about/project_overview)]
+[Read more]()
 
 ### How we do what we do
 
-[Read more (/about/how_we_do)]
+[Read more]()
 
 ### Our Team
 
-[Read more (/team)]
+[Read more]()
 
 ### Our Partners
