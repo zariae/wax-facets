@@ -8,6 +8,9 @@ description:
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/keywords"
+gallery: True
+
+
 
 # --------------------------------------------------------------
 # COLLECTION SETTINGS
@@ -44,12 +47,16 @@ search:
       keywords:
         content: true # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
+          - filing_date
+          - doc_origin
+          - language
+          - archive
+          - names_black
+          - names_white
+          - names_native
+          - doc_type
+          - keywords
+
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
