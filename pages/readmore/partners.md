@@ -1,41 +1,41 @@
 ## Our Partners ##
 This project wouldn't be possible without the tremendous contributions and support of our partners.
-![LIFEXCODE DH Against Enclosure is the project!]("C:\Users\Jamya Davis\Downloads\LIFEXCODE.png")
-Brooke Lansing
-Leila Blackbird
-Sarah Bruno
-Kelsey Moore
-Halle-Mackenzie Ashby
-Maya Overby Koretzky
-Kevin Ah-Sen
-Jada Similton
-Olivia Barnard
-Arianna Brown 
-Jessica Newby
-Essah Diaz
-Alex Gil (digital strategist)
-Casey Lurtz
-Tao Leigh Goffe (DSL)
-Heather Furnas (Sheridan Libraries)
-Yomaira C. Figureroa (DSL/EM)
-Robin McDowell (Keywords/DSL)
-Jennifer Kingsley (Museums & Society)Laura Rosanne Adderley (Keywords)
-Kim Gallon (Black Beyond Data)
-Alexandre White (Black Beyond Data)
-Maya Hogarth
-Eola Dance
-Angela Proctor (Archivist)
-Beverly Stanton McKenna (Publisher of the New Orleans Tribune and Co-Founder of the McKenna Museum)
-Etha Simien Amgling (Genealogist)
-Ibrahima Seck (Director of Research)
-Jari Honora (Reference Associate)
-John Kennedy (Archivist)
-Kara Olidge (Director)
-Keith Richards (Grad Student)
-Malik Bartolomew (Tour Guide/Librarian)
-Mona Lisa Saloy (Louisiana Poet Laureate)
-Nicholas Paskert (Grad Student)
-Pat Schexnayder (Genealogist)
-Rafael Delgadillo (Graduate Student)
-Vincent Barazza (Archivist, Digital Preservtaion Librarian)
-Yvonne Therese Holden (Whitney Plantation and Slavery Museum)
+!("C:\Users\Jamya Davis\Downloads\LIFEXCODE.png")
+1. Brooke Lansing
+2. Leila Blackbird
+3. Sarah Bruno
+4. Kelsey Moore
+5. Halle-Mackenzie Ashby
+6. Maya Overby Koretzky
+7. Kevin Ah-Sen
+8. Jada Similton
+9. Olivia Barnard
+10. Arianna Brown 
+11. Jessica Newby
+12. Essah Diaz
+13. Alex Gil (digital strategist)
+14. Casey Lurtz
+15. Tao Leigh Goffe (DSL)
+16. Heather Furnas (Sheridan Libraries)
+17. Yomaira C. Figureroa (DSL/EM)
+18. Robin McDowell (Keywords/DSL)
+19. Jennifer Kingsley (Museums & Society)Laura Rosanne Adderley (Keywords)
+20. Kim Gallon (Black Beyond Data)
+21. Alexandre White (Black Beyond Data)
+22. Maya Hogarth
+23. Eola Dance
+24. Angela Proctor (Archivist)
+25. Beverly Stanton McKenna (Publisher of the New Orleans Tribune and Co-Founder of the McKenna Museum)
+26. Etha Simien Amgling (Genealogist)
+27. Ibrahima Seck (Director of Research)
+28. Jari Honora (Reference Associate)
+29. John Kennedy (Archivist)
+30. Kara Olidge (Director)
+31. Keith Richards (Grad Student)
+32. Malik Bartolomew (Tour Guide/Librarian)
+33. Mona Lisa Saloy (Louisiana Poet Laureate)
+34. Nicholas Paskert (Grad Student)
+35. Pat Schexnayder (Genealogist)
+36. Rafael Delgadillo (Graduate Student)
+37. Vincent Barazza (Archivist, Digital Preservtaion Librarian)
+38. Yvonne Therese Holden (Whitney Plantation and Slavery Museum)
