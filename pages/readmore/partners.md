@@ -1,6 +1,6 @@
 ## Our Partners ##
 This project wouldn't be possible without the tremendous contributions and support of our partners.
-!(assets/images/LIFEXCODE.png)
+
 1. Brooke Lansing
 2. Leila Blackbird
 3. Sarah Bruno
