@@ -6,7 +6,7 @@ permalink: /collection/
 ---
 
 “Kinship and Belonging: Reimagining the Place of Black Life in the Louisiana Colonial
-Archive” recasts the story of Africans and people of African descent through the
+Archive" recasts the story of Africans and people of African descent through the
 experiences of enslaved and free people of color in colonial Louisiana. In 1719, the first
 documented slave ships from West Africa arrived in Louisiana. In 1803, the United
 States purchased the Louisiana Territory from France. In the century between, Black

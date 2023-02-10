@@ -1,4 +1,10 @@
-## Our Partners ##
+---
+layout: page
+title: Our Partners
+gallery: True
+permalink: /partners/
+---
+
 This project wouldn't be possible without the tremendous contributions and support of our partners.
 
 1. Brooke Lansing
