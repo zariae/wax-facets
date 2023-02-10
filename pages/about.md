@@ -19,4 +19,4 @@ From a variety of institutions, our team is composed of faculty members at all c
 
 ### Our Partners
 
-We work with New Orleans-based community partners in professional fields ranging from public history, education, literature, art, and activism. [Meet our partners.]({% link pages/readmore/partners.md %})
+We work with New Orleans-based community partners in professional fields ranging from public history, education, literature, art, and activism. [Meet our partners]({% link pages/readmore/partners.md %})
