@@ -22,4 +22,5 @@ Ellie is a Ph.D. Candidate currently attending Johns Hopkins Univeristy in Balti
 
 ## Editorial Team
 
-![LifeXCode Logo]("C:\Users\Jamya Davis\Desktop\keywords\Keywords Images\LIFEXCODE.png")
+![life x code logo](/assets/images/logo/LIFEXCODE.png)
+
