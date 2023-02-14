@@ -21,3 +21,6 @@ Jamya is an undergraduate student attending Xavier Univerity of Louisiana in New
 Ellie is a Ph.D. Candidate currently attending Johns Hopkins Univeristy in Baltimore, Maryland. Ellie's pronouns are "///". Ellie is pursuing her doctoral degree in ___ and is currently working on her doctoral thesis with the subject being... future plans...things she loves...how she got on the project...
 
 ## Editorial Team
+
+![life x code logo](./assets/images/logo/LIFEXCODE.png)
+
