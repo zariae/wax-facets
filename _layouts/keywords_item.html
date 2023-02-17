@@ -18,16 +18,16 @@ meta:
     type:  link
 ---
 
+<hr>
 <!-- TRANSCRIPTIONS --> 
 
-<div class="main container">
+<div class='main container'>
+  <div>
 
-<div class="row justify-content-center">
+    {% capture excerpt %}{% include _includes/excerpts/{{ page.pid }}.md %}{% endcapture %}  
 
-  {% capture excerpt %}{% include excerpts/{{ page.pid }}.md %}{% endcapture %}  
+      {{ excerpt | markdownify }}
 
-    {{ excerpt | markdownify }}
-
-</div>
+  </div>
 </div>
 

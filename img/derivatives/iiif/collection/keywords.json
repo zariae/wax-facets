@@ -13,14 +13,34 @@ layout: none
       "label": "d0005"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0264/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0011/manifest.json",
       "@type": "sc:Manifest",
-      "label": "d0264"
+      "label": "d0011"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0035/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0035"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0127/manifest.json",
       "@type": "sc:Manifest",
       "label": "d0127"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0128/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0128"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0129/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0129"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0137/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0137"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0210/manifest.json",
@@ -33,29 +53,9 @@ layout: none
       "label": "d0218"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0035/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0264/manifest.json",
       "@type": "sc:Manifest",
-      "label": "d0035"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0129/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "d0129"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0128/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "d0128"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0137/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "d0137"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0011/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "d0011"
+      "label": "d0264"
     }
   ]
 }
