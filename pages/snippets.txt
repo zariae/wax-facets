@@ -1,1 +1,12 @@
 facet_by='filing_date|doc_origin*|language*|archive*|names_black*|names_white*|names_native*|doc_type*|keywords*'
+
+
+<div class='main container'>
+  <div>
+
+    {% capture excerpt %}{% include excerpts/{{ page.pid }}.md %}{% endcapture %}  
+
+      {{ excerpt | markdownify }}
+
+  </div>
+</div>
