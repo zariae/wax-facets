@@ -91,6 +91,8 @@ menu:
  #       link: "/exhibits/subset/"
   - label: "Documents"
     link: "/collection/"
+  - label: "Resources"
+    link: "/resources/"
   - label: "Search"
     link: "/search/"
   - label: "Contact Us"
