@@ -17,3 +17,17 @@ meta:
     value: page.google_doc_prototype
     type:  link
 ---
+
+<!-- TRANSCRIPTIONS --> 
+
+<div class="main container">
+
+<div class="row justify-content-center">
+
+  {% capture excerpt %}{% include excerpts/{{ page.pid }}.md %}{% endcapture %}  
+
+    {{ excerpt | markdownify }}
+
+</div>
+</div>
+

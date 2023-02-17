@@ -1,0 +1,1 @@
+facet_by='filing_date|doc_origin*|language*|archive*|names_black*|names_white*|names_native*|doc_type*|keywords*'

@@ -21,4 +21,4 @@ joy and forming community.
 
 Explore a sample of the documents below.
 
-{% include gallery.html collection='keywords' facet_by='filing_date|doc_origin*|language*|archive*|names_black*|names_white*|names_native*|doc_type*|keywords*' num_column=4 %}
+{% include gallery.html collection='keywords' facet_by='language|keywords*' num_column=4 %}
