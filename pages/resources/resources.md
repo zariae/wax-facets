@@ -5,6 +5,6 @@ gallery: True
 permalink: /resources/
 ---
 
-#For Students
-##For Teachers
-###For Researchers
+# For Students
+## For Teachers
+### For Researchers

@@ -20,3 +20,6 @@ This project wouldn't be possible without the tremendous contributions and suppo
 10. Pat Schexnayder (Genealogist)
 11. Vincent Barazza (Archivist, Digital Preservtaion Librarian)
 12. Yvonne Therese Holden (Whitney Plantation and Slavery Museum)
+
+
+![LifexCode Logo](../assets/figures/Icon-02.png){: width="400px"}

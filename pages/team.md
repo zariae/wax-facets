@@ -22,5 +22,5 @@ Ellie is a Ph.D. Candidate currently attending Johns Hopkins Univeristy in Balti
 
 ## Editorial Team
 
-![life x code logo](assets/figures/LIFEXCODE.png))
+![life x code logo](../assets/figures/poultry+vendor.png){: width="300px"}
 
