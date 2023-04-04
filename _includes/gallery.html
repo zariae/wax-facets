@@ -11,9 +11,15 @@
 
 {% comment %}- SUBSET PARSING -{% endcomment%}
 
-{% if include.field and include.value %}  
-  {% assign collection = site[include.collection] | where: include.field,
-  include.value | sort: 'order' %}
+{% if include.field and include.value %}
+  {% comment %}
+    Not quite correct. Will over-eagerly match
+    e.g. trying to match "freedom" will match both "freedom" and "freedom suit"
+  {% endcomment%}
+  {%
+    assign collection = site[include.collection]
+      | where_exp: "collection", "collection[include.field] contains include.value"
+  %}
 {% else %}
   {% assign collection = site[include.collection] %}
 {% endif %}
