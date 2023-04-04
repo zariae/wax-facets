@@ -50,6 +50,12 @@ My workaround simply matches all rows where the value of interest is found withi
 
 Some work needs to be done in the future to correct this behavior.
 
+## Future work
+
+* The gallery bug needs to be fixed in the near future.
+* Once the gallery bug is addressed, it should be submitted back to Wax
+* Beyond that, however, we might think about a custom Wax task that can be run that could autogenerate these pages. This would be longer term, but easier to contribute back to the Wax community
+
 # Note
 
 * I don't quite know how this would play with date ranges yet.
