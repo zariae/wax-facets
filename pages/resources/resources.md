@@ -9,7 +9,6 @@ permalink: /resources/
 ## For Teachers
 ### For Researchers
 
-
 [# For Students]({% link ../students/ %})
 [# For Researchers]({% link ../researchers/ %})
 [# For Teachers]({% link ../teachers/ %})
