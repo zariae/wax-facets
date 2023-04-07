@@ -5,4 +5,4 @@ field: keywords
 value: 'trade'
 ---
 
-Sample page with a description about the 'trade' keyword
+## Trade 

@@ -5,4 +5,7 @@ field: keywords
 value: 'Code Noir'
 ---
 
-Sample page with a description about the 'Code Noir' keyword
+## Code Noir
+
+
+The Code Noir of 1724 lays out the the restrictions for enslaved Africans and African-desendant peoples.

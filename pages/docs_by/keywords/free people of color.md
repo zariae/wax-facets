@@ -5,4 +5,5 @@ field: keywords
 value: 'free people of color'
 ---
 
-Sample page with a description about the 'free people of color' keyword
+## Free People of Color
+

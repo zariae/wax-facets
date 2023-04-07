@@ -5,4 +5,4 @@ field: keywords
 value: 'Kinship'
 ---
 
-Sample page with a description about the 'kinship' keyword
+## Kindship

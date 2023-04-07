@@ -5,4 +5,4 @@ field: keywords
 value: 'rival geography'
 ---
 
-Sample page with a description about the 'rival geography' keyword
+## Rival Geography

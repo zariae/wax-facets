@@ -5,4 +5,4 @@ field: keywords
 value: 'Labor'
 ---
 
-Sample page with a description about the 'Labor' keyword
+## Labor

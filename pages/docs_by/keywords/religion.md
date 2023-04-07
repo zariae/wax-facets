@@ -5,4 +5,4 @@ field: keywords
 value: 'religion'
 ---
 
-Sample page with a description about the 'Religion' keyword
+## Religion

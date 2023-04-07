@@ -5,4 +5,4 @@ field: keywords
 value: 'Indigenous peoples'
 ---
 
-Sample page with a description about 'Indigenous peoples' 
+## Indigenous Peoples

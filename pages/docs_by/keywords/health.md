@@ -5,4 +5,4 @@ field: keywords
 value: 'health'
 ---
 
-Sample page with a description about the 'health' keyword
+## Health

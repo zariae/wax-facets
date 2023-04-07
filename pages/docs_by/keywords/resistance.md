@@ -5,4 +5,4 @@ field: keywords
 value: 'resistance'
 ---
 
-Sample page with a description about the 'resistance' keyword
+## Resistance

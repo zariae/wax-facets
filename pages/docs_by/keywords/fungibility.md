@@ -5,4 +5,4 @@ field: keywords
 value: 'fungibility'
 ---
 
-Sample page with a description about the 'fungibility' keyword
+## Fungibility

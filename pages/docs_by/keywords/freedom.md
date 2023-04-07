@@ -5,5 +5,6 @@ field: keywords
 value: 'freedom'
 ---
 
-Sample page with a description about the 'freedom' keyword
+## Freedom
+
 

@@ -5,4 +5,4 @@ field: keywords
 value: 'survival'
 ---
 
-Sample page with a description about the 'survival' keyword
+## Survival

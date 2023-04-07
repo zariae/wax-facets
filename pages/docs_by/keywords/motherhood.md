@@ -5,4 +5,4 @@ field: keywords
 value: 'Motherhood'
 ---
 
-Sample page with a description about the 'Motherhood' keyword
+## Motherhood

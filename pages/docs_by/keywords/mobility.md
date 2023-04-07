@@ -5,4 +5,4 @@ field: keywords
 value: 'mobility'
 ---
 
-Sample page with a description about the 'Mobility' keyword
+## Mobility

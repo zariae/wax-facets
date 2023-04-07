@@ -5,4 +5,5 @@ field: keywords
 value: 'collaboration'
 ---
 
-Sample page with a description about the 'collaboration' keyword
+## Collaboration
+

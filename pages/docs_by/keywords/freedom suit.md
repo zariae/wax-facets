@@ -5,4 +5,5 @@ field: keywords
 value: 'freedom suit'
 ---
 
-Sample page with a description about the 'freedom suit' keyword
+## Freedom Suit
+
