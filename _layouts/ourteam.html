@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+        {%- include head.html -%}
+        <body>
+          {%- include header.html -%}
+
+    <h1>{{ page.title }}</h1>
+    <section>
+        <div class = row>
+            {% assign names = "Leila Blackbird, Olivia Barnard, Eola Dance" | split: "," %}
+            <ul>
+              {% for person in names %}
+                  {{ person }}
+                  {{ person.biography }}
+              {% endfor %}
+            </ul>
+            {% if name ==name 1 %}
+        </div>
+      {{ content }}
+    </section>
+    <footer>
+        {%- include footer.html -%}    
+    </footer>
+  </body>
+</html>
