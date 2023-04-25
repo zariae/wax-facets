@@ -1,4 +1,4 @@
 ---
 name: Jamya Davis
-image: /assets/figures/headshots/leila.jpg
+image: /assets/figures/headshots/jamya.jpg
 ---

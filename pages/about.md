@@ -7,15 +7,21 @@ permalink: /about/
 <br>
 ### Project Overview
 
-This project began in Fall 2020, when a small team of researchers began working with the collection in the Louisiana Historical Center's Louisiana Colonial Documents Digitzation Project. The goal was to read for Black and Black Native life in the archive and create transcriptions and translations of the documents, as well as new metadata, guided by keywords. Our project aims to bring these stories to a broad audience of descendats, teachers, students, creatives, community members, and scholars. [Read more.]({% link pages/readmore/project_overview.md %})
+In fall of 2020, Dr. Jessica Marie Johnson planted the seed for this project, bringing together a group of graduate student researchers to start looking into records from French and Spanish Colonial Louisiana that the Louisiana Historical Center has recently digitized. That digitization effort represented an incredible feat in making the documents available to researchers, but there remained references to Black people in Louisiana that the "search" functions overlooked, and important contextualizations that lay beyond the scope of that project. Our goal was to find these individuals and their stories, describe their significance using "keywords," and make transcription of the hard-to-read handwriting and English translations of those transcriptions.  
+
+Our project aims to bring these stories to a broad audience of descendats, teachers, students, creatives, community members, and scholars.  
+ 
+Over time, our team has grown to include scholars at various career levels - from undergraduates to full professors - and across numerous institutions. We also began a robust program of community engagement, working with public historians, cultural workers, educators, and descendants as advisors to the project.  
+
+Following the links below, you can learn more about the scope and goals of the project as well as our research, transcription, translation, digitization, and community engagement processes. You can also meet our team and our partners.[Read more.]({% link pages/readmore/project_overview.md %})  
 
 ### How we do what we do
 
-A commitment to ethical and community-oriented praxis drives our process at every stage. From research to editing to the digital life of our content, this site, we are motivated by the principles of recovery, sustainability, and access. We hold ourselves accountable to Black New Orleans. [Read more.]({% link pages/readmore/how_we_do.md %})
+We started out with a giant database of digitized manuscript documents, and our goal is to have a comprehensive subset of these documents transcribed, translated, and published on this website. How do get there? Choosing documents, collaborating on challenging transcriptions and translations, annotating those texts, working through a rigorous editorial process, and putting the texts and original images on a website are the essential technical steps in our process. We also work closely with our community team to ensure that we work ethically and effectively to create an impactful project. Learn more about the nuts and bolts of our approach here. [Read more.]({% link pages/readmore/how_we_do.md %})
 
 ### Our Team
 
-From a variety of institutions, our team is composed of faculty members at all career stages as well as graduate and undergraduate students who come together as four teams with a collective of community partners to do our work. The four teams are research, editorial, digital, and community. [Meet our team.]({% link pages/team.md %})
+Keywords for Black Louisiana is a collective of researchers founded in 2020 with the goal of creating new routes through the archive that make central the lived experiences of Black people in colonial Louisiana. As historians, we are invested in the rigorous, accurate, and detailed transcription of archival materials for the benefit of researchers and the broader public. As digital humanists, we are also committed to ethical scholarship rooted in reciprocity and community accountability. Therefore, our project challenges and confronts the archival silences and technological limitations that traditionally obscure Black life and humanity throughout Louisiana history. [Meet our team.]({% link pages/team.md %})
 
 ### Our Partners
 
