@@ -5,4 +5,6 @@ gallery: True
 permalink: /contact/
 ---
 
-Here we could use markdown to do email address, etc.
+# Coming Soon
+
+Check back for more information about best ways to reach out to our team.
