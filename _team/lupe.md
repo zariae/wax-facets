@@ -1,4 +1,4 @@
 ---
 name: Guadalupe García
-image: 
+image: /assets/figures/headshots/drgarcia.jpg
 ---
