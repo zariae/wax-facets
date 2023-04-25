@@ -3,17 +3,16 @@ layout: page
 title: About Us
 permalink: /about/
 ---
+!["Veüe et Perspective de la Nouvelle Orleans" (View & Perspective of New Orleans), 1726. Ink and watercolor by Jean-Pierre Lassus. Detail of left side of illustation. View shows the young city of New Orleans from across the Mississippi River at Algiers Point. In the foreground, slaves labor on the West Bank (then a Company of the Indies plantation) downing trees. To right of center, a man spears an alligator. Small boats are on the Mississippi, with larger sailing ships across the River at the town. Trees are shown cleared only a short distance beyond the town limits. The road to Bayou St. John seen towards top center of view. This is said to be the only known contemporary view of the city from the first French Colonial era, before Louisiana was transfered to Spain in 1763. From Wikimedia](assets/figures/vueetperspective.jpg)  
 
 <br>
 ### Project Overview
 
 In fall of 2020, Dr. Jessica Marie Johnson planted the seed for this project, bringing together a group of graduate student researchers to start looking into records from French and Spanish Colonial Louisiana that the Louisiana Historical Center has recently digitized. That digitization effort represented an incredible feat in making the documents available to researchers, but there remained references to Black people in Louisiana that the "search" functions overlooked, and important contextualizations that lay beyond the scope of that project. Our goal was to find these individuals and their stories, describe their significance using "keywords," and make transcription of the hard-to-read handwriting and English translations of those transcriptions.  
 
-Our project aims to bring these stories to a broad audience of descendats, teachers, students, creatives, community members, and scholars.  
- 
-Over time, our team has grown to include scholars at various career levels - from undergraduates to full professors - and across numerous institutions. We also began a robust program of community engagement, working with public historians, cultural workers, educators, and descendants as advisors to the project.  
+Our project aims to bring these stories to a broad audience of descendats, teachers, students, creatives, community members, and scholars. Over time, our team has grown to include scholars at various career levels - from undergraduates to full professors - and across numerous institutions. We also began a robust program of community engagement, working with public historians, cultural workers, educators, and descendants as advisors to the project.  
 
-Following the links below, you can learn more about the scope and goals of the project as well as our research, transcription, translation, digitization, and community engagement processes. You can also meet our team and our partners.[Read more.]({% link pages/readmore/project_overview.md %})  
+Following the links below, you can learn more about the scope and goals of the project as well as our research, transcription, translation, digitization, and community engagement processes. You can also meet our team and our partners. [Read more.]({% link pages/readmore/project_overview.md %})  
 
 ### How we do what we do
 
@@ -26,6 +25,3 @@ Keywords for Black Louisiana is a collective of researchers founded in 2020 with
 ### Our Partners
 
 We work with New Orleans-based community partners in professional fields ranging from public history, education, literature, art, and activism. [Meet our partners]({% link pages/readmore/partners.md %})
-
-
-Hi
