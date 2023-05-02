@@ -1,5 +1,5 @@
 ---
-name: Margaret Burry
+name: Margaret Burri
 image: 
 ---
 
