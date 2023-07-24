@@ -13,6 +13,11 @@ layout: none
       "label": "d0005"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0266/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0266"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0264/manifest.json",
       "@type": "sc:Manifest",
       "label": "d0264"
@@ -48,9 +53,24 @@ layout: none
       "label": "d0035"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0326/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0326"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0137/manifest.json",
       "@type": "sc:Manifest",
       "label": "d0137"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0335/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0335"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0075/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0075"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0010/manifest.json",
