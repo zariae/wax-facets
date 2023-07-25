@@ -63,7 +63,7 @@ layout: default
       {% endif %}
     </div>
 
-    <div class="row">
+    <div>
       {% capture excerpt %}{% include excerpts/{{ page.pid }}.md %}{% endcapture %}
       {{ excerpt | markdownify }}
     </div>
