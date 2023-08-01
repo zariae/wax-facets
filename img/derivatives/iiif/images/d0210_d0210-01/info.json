@@ -6,19 +6,19 @@ layout: none
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/d0210_d0210-01",
   "protocol": "http://iiif.io/api/image",
   "width": 800,
-  "height": 1208,
+  "height": 504,
   "sizes": [
     {
       "width": 800,
-      "height": 1208
+      "height": 504
     },
     {
       "width": 250,
-      "height": 378
+      "height": 158
     },
     {
       "width": 1140,
-      "height": 1721
+      "height": 718
     }
   ],
   "profile": [
