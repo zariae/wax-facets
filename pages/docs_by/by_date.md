@@ -1,3 +1,16 @@
 ---
-layout: facet_page_layout_date
+layout: default
 ---
+
+## French Period    
+1714-1723  
+1724-1733  
+1734-1743  
+1744-1753  
+1754-1763
+
+## Spanish Period    
+1763-1772  
+1773-1782  
+1783-1792  
+1793-1802
