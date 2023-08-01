@@ -33,6 +33,11 @@ layout: none
       "label": "d0129"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0111/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0111"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0127/manifest.json",
       "@type": "sc:Manifest",
       "label": "d0127"
@@ -41,6 +46,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0210/manifest.json",
       "@type": "sc:Manifest",
       "label": "d0210"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0281/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "d0281"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0218/manifest.json",
