@@ -42,3 +42,18 @@ The gallery that results from this instruction, which you can see in our "[Exhib
 
 The CSS that determines the look of the site is done using a combination of SASS and the bootstrap framework. To change some common variables, like colors or fonts, you can edit the `/assets/css/style.scss` file. You can always override our own choices from this file as well. You can also add your own CSS files to the `_sass` folder, and simply import them into the main sass file above.
 
+## How to use the search box
+
+We've slightly customized the out-of-the-box search component provided by Wax. This let us customize the fields that are shown in the subheader of search results.
+
+Add this snippet to the template of the page you want the search box to be used:
+
+```
+{% include search_box.html search='main' subtitle='filing_date,doc_type' %}
+```
+
+* `search_box.html` - the search component to add to the page, found at `_includes/search_box.html`
+* `search='main'` - the name of the Lunr search index, defined in your `_config.yml`
+* `subtitle='filing_date'` - one or more comma delimited fields to show. These must be from the column names from your original CSV
+
+![Alt text](assets/search-box-example.png)
