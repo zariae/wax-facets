@@ -16,7 +16,7 @@
       <div class="row">
       {% for item in subset %}
         <div class="gallery-item {{  newClasses | join: ' ' }} col-xl-{{min_column_width}} p-1">
-            <div class='card thumbnail-card'>
+            <div class='card thumbnail-card h-100'>
               <img class='d-block card-img-top gallery-thumb w-100 mh-100' src='{{ item.thumbnail | absolute_url }}' alt="{{ item.label }}"/>
               <div class="card-body">
                 <a href="{{ item.url | absolute_url }}"><h3 class="card-title">{{ item.label }}</h3></a>
