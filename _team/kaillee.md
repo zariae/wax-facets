@@ -2,11 +2,4 @@
 name: Kaillee Coleman
 image: 
 ---
-is a PhD student in Art History and Latin
-American Studies. She holds an MA from the Stone Center for Latin American Studies
-at Tulane University. Her research investigates visual modernisms in Cuba and
-throughout the greater Caribbean diaspora, with a focused lens towards the
-intersections of cultural production, performance, and political resistance. Currently, she
-holds a Foreign Language and Area Studies Fellowship in Haiti/ Haitian Creole. Kaillee
-comes to this project with a vested interest in questions of public memory, identity
-formation, ephemerality, object-memory, and social space.
+is a doctoral student in the joint Latin American Studies and Art History program at Tulane University. Her research focuses on contemporary Caribbean art and cultural production, with special emphasis on the Black Atlantic and Diaspora Studies. She earned a M.A. in Latin American Studies from Tulane University and holds undergraduate degrees in Art History and Interdisciplinary Art (dual emphasis in Visual Art and Theatre) from Seattle University. From 2021-2022, Kaillee was the recipient of a U.S. Dept. of Education Foreign Language and Area Studies (FLAS) Fellowship in Haitian Creole. From 2022-2023 she was the recipient of the William J. Griffith Award for Outstanding Teaching Assistant in Latin American Studies, awarded by the Stone Center for Latin American Studies at Tulane University. Kaillee served as Vice-President of the Tulane Graduate Studies Student Association (2022-2023) and as Treasurer of the Tulane Latin American Graduate Organization (2021-2022). Alongside her research as an associate editor for Keywords for Black Louisiana (2021-present), she works currently as an archival assistant and metadata specialist for the forthcoming Stone Center for Latin American Studies Centennial Project, celebrating 100 years of Latin American Studies at Tulane University.  Kaillee’s dissertation, tentatively titled “When I Am Not Here, Estoy Alla: Visualizing Expansive Space-Time in Caribbean Diasporic Memory'', places the work of three prominent Caribbean diasporic artists– María Magdalena Campos-Pons, La Vaughn Belle, and Firelei Báez– in direct conversation with each other, tracing a thread of multivalent and sensorial memory keeping.
