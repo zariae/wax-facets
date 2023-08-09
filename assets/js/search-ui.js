@@ -18,17 +18,26 @@ function getThumbnail(item, url) {
   }
 }
 
-function displayResult(item, fields, url) {
+function displayResult(item, fields, url, subtitles) {
   var pid   = item.pid;
   var label = item.label || 'Untitled';
   var link  = item.permalink;
   var thumb = getThumbnail(item, url);
-  var meta = `<b>collection</b>: ${item.collection} |<b>artist</b>:  ${item.artist}`;
+
+  var meta = subtitles
+    .filter(subtitle => fields.includes(subtitle))
+    .map((subtitle) => {
+      let label = subtitle.replace('_', ' ');
+      label = `${label.charAt(0).toUpperCase()}${label.slice(1)}`
+      return `<b>${label}</b>: ${item[subtitle]}`;
+    })
+    .join(' | ')
+
   // note: href below not working on localhost
   return `<div class="result"><a href="..${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta}</span></p></a></div>`;
 }
 
-function startSearchUI(fields, indexFile, url) {
+function startSearchUI(fields, indexFile, url, subtitles) {
   $.getJSON(indexFile, function(store) {
     var index  = new elasticlunr.Index;
 
@@ -49,7 +58,7 @@ function startSearchUI(fields, indexFile, url) {
       for (var r in results) {
         var ref    = results[r].ref;
         var item   = store[ref];
-        var result = displayResult(item, fields, url);
+        var result = displayResult(item, fields, url, subtitles);
 
         results_div.append(result);
       }
