@@ -21,8 +21,6 @@ joy and forming community.
 
 [Search By Keyword.](/keywords/pages/docs_by/by_keyword)
 
-[Search By Date.](/keywords/pages/docs_by/by_date)
-
 Explore a sample of the documents below.
 
 {% include gallery.html collection='keywords' facet_by='language|keywords*' num_column=4 %}
