@@ -23,6 +23,6 @@ joy and forming community.
 
 Explore a sample of the documents below.
 
-{% include gallery.html collection='keywords' facet_by='language|keywords*' num_column=4 %}
+{% include gallery.html collection='keywords' facet_by='language|keywords*' num_column=4 sortBy='filing_date' %}
 
 

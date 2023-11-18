@@ -24,6 +24,12 @@
   {% assign collection = site[include.collection] %}
 {% endif %}
 
+{% if include.sortBy and include.sortOrder == "reverse" %}
+  {% assign collection = collection | sort: include.sortBy | reverse %}
+{% elsif include.sortBy and include.sortOrder != "reverse" %}
+  {% assign collection = collection | sort: include.sortBy %}
+{% endif %}
+
 {% comment %}- END SUBSET PARSING -{% endcomment%}
 
 {% comment %} :::: FACETS :::: {% endcomment%}
