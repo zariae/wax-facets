@@ -67,6 +67,8 @@ search:
           - names_white
           - names_native
           - doc_type
+          - pdf
+          - lhc_scans
           - keywords
 
 
