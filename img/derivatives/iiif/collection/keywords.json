@@ -68,11 +68,6 @@ layout: none
       "label": "d0218"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0004/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "d0004"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/d0035/manifest.json",
       "@type": "sc:Manifest",
       "label": "d0035"
