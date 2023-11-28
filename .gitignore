@@ -5,5 +5,5 @@ _site/
 *.pdf
 .DS_Store
 .liquidrc
-
+*.icloud
 
