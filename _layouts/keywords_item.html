@@ -19,6 +19,9 @@ meta:
   - label: 'Transcription and Translation'
     value: page.google_doc_prototype
     type: link
-  - label: 'Downloadable File'
-    type: link
----
+    ---
+
+    {% comment %} Render a button for the PDF file {% endcomment %}
+    {% if page.downloadable_file %}
+      <button onclick="window.location.href='{{ page.pdf }}'">Download PDF</button>
+    {% endif %}
