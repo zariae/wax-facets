@@ -2,7 +2,8 @@
 pid: code-noir
 label: Code Noir
 Keyword: Code Noir
-Description: 
+Description: The Code Noir of 1724 lays out the the restrictions for enslaved Africans
+  and African-desendant peoples.
 Image: 
 References: 
 Main Bias Set Records: '221,222,254,272,343,351'
