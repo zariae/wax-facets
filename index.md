@@ -21,4 +21,4 @@ The stories of African and African descended people—family, culture, labor, re
 
 We invite you to engage these stories through reading the documents, studying the keywords that identify important threads in the text, and checking out the resources we've developed to guide you through the project and highlight other work we love in, around, and about Black Louisiana.  
 
-[Explore the documents](/keywords/collection).
+[Explore the documents]({% link pages/collection.md %}).
