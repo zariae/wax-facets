@@ -39,8 +39,8 @@ collections:
   team:
     output: false
  
- keywords_descriptions:
-   output: true
+  keywords_descriptions:
+    output: true
     layout: "facet_page_layout"
     metadata:
       source: "keywords_descriptions.csv"
