@@ -19,9 +19,16 @@ Louisiana are a deep and rich resource for Black peoples’ political practices,
 to slavery and oppression, alliances across race and status, and strategies for securing
 joy and forming community.
 
-[Search by keyword]({% link pages/docs_by/by_keyword.md %})
+[Search by keyword]({% link _keywords_descriptions/abuse.md %})
 
 Explore a sample of the documents below.
 
-{% include gallery.html collection='keywords' facet_by='language|keywords*' num_column=4 sortBy='filing_date' %}
+{% include
+    gallery.html
+    collection='keywords'
+    facet_by='language|keywords*'
+    num_column=4
+    sortBy='filing_date'
+    display_fields="lhc_source,lhc_doc_origin,lhc_filing_date"
+%}
 
