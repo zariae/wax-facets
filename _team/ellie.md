@@ -1,5 +1,5 @@
 ---
-name: Ellie Palazzolo
+name: E. G. Palazzolo
 image: /assets/figures/headshots/ellie.jpg
 ---
 
