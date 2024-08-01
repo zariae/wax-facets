@@ -1,6 +1,6 @@
 ---
 name: Margaret Burri
-image: margaret.jpg
+image: /assets/figures/headshots/margaret.jpg
 ---
 
 is an Associate Director at the Sheridan Libraries at Johns Hopkins University. She works with two amazing teams of research librarians, curators, and archivists to support faculty and students in their research, teaching, and learning. Prior to joining Hopkins, she served as Deputy Director of MedChi, The Maryland State Medical Society, where she oversaw a medical library and history of medicine collection, and managed various health policy initiatives.  She has also held curatorial positions at the Maryland Center for History and Culture, and the D.C. History Center.  
