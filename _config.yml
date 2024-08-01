@@ -90,6 +90,14 @@ search:
 # submenu via `sub`.
 
 menu:
+  - label: "About Us"
+    sub:
+      - label: "Project"
+        link: "/about/"
+      - label: "Team"
+        link: "/team/"
+      - label: "Contact Us"
+        link: "/contact/"
   - label: "Data"
     sub:
       - label: "Documents"
@@ -102,11 +110,4 @@ menu:
     link: "/resources/"
   - label: "Search"
     link: "/search/"
-  - label: "About Us"
-    sub:
-      - label: "Project"
-        link: "/about/"
-      - label: "Team"
-        link: "/team/"
-      - label: "Contact Us"
-        link: "/contact/"
+
