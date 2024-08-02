@@ -98,7 +98,7 @@ menu:
         link: "/team/"
       - label: "Contact Us"
         link: "/contact/"
-  - label: "Data"
+  - label: "Discover"
     sub:
       - label: "Documents"
         link: "/collection/"
