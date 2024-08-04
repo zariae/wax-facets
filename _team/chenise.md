@@ -1,5 +1,6 @@
 ---
 name: Chenise Calhoun
+title: Co-Project Manager & Community Engagement Fellow, French Language Team
 image: /assets/figures/headshots/chenise.jpg
 ---
 
