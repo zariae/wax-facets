@@ -1,5 +1,5 @@
 ---
 name: Kiana González Cedeño
-title: Digital Assistant for Editorial Markup
-image: /assets/figures/headshots/.jpg
+title: Associate Editor, Spanish Language Team, Spanish Team Lead
+image: /assets/figures/headshots/kaillee.jpg
 ---
