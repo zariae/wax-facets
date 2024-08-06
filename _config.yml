@@ -96,7 +96,9 @@ menu:
       - label: "People"
         link: "/people/"
   - label: "Resources"
-    link: "/resources/"
+    sub:
+      - label: "Bibliography"
+        link: "/bibliography/"
   - label: "Search"
     link: "/search/"
 
