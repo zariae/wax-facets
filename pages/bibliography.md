@@ -1,4 +1,8 @@
-**Selected Bibliography**  
+---
+layout: page
+title: Selected Bibliography
+permalink: /bibliography/
+---
   
 Aubert, Guillaume. “‘The Blood of France’: Race and Purity of Blood in the French Atlantic World.” *The William and Mary Quarterly* 61, no. 3 (July 2004): 439-78. [https://www.jstor.org/stable/3491805](https://www.jstor.org/stable/3491805).  
   
