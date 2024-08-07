@@ -99,6 +99,10 @@ menu:
     sub:
       - label: "Bibliography"
         link: "/bibliography/"
+      - label: "Documentation"
+        link: "/documentation"
+      - label: "Contact Us"
+        link: "/contact/"
   - label: "Search"
     link: "/search/"
 
