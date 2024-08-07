@@ -16,7 +16,7 @@ layout: default
     <div class="list-group-flush">
         {% for person in site["people"] %}
             <a href="{{ person.url }}" class="list-group-item">
-                <h3>{{ person.name }}</h3>
+                <h3>{{ person.full_name }}</h3>
                 <p>{{ person.biographical_notes }}</p>
             </a>
         {% endfor %}
