@@ -58,3 +58,16 @@ $max-width: 100%;
 
 @import "facets";
 @import "keywords";
+
+/* footer */
+
+.footer .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+.footer p {
+  margin: 0;
+}
