@@ -1,5 +1,6 @@
 ---
 name: Jamya Davis
+jobtitle: Digital Designer
 image: /assets/figures/headshots/jamya.jpg
 ---
 

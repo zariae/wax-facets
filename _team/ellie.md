@@ -1,5 +1,6 @@
 ---
 name: E. G. Palazzolo
+jobtitle: Digital Curation Fellow and Co-Project Manager
 image: /assets/figures/headshots/ellie.jpg
 ---
 

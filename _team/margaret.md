@@ -1,5 +1,6 @@
 ---
 name: Margaret Burri
+jobtitle: Sheridan Libraries Research Liason, Research Team
 image: /assets/figures/headshots/margaret.jpg
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: John Abrahams
+jobtitle: Lead Engineer, Digital Infrastructure Team
 image:
 ---
 

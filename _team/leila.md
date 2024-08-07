@@ -1,5 +1,6 @@
 ---
 name: Leila Blackbird
+jobtitle: Senior Research Editor
 image: /assets/figures/headshots/leila.jpg
 ---
 

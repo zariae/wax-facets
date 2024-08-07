@@ -1,5 +1,6 @@
 ---
 name: Alex Gil
+jobtitle: Technical Consultant, LifexCode Digital Strategist
 image: /assets/figures/headshots/drgil.jpg
 ---
 is Senior Lecturer II and Associate Research Faculty of Digital Humanities in the Department of Spanish and Portuguese at Yale University, where he teaches introductory and advanced courses in digital humanities, and runs project-based learning and collective research initiatives. Before joining Yale, Alex served for ten years as Digital Scholarship Librarian at Columbia University, where he co-created and nurtured the Butler Studio and the Group for Experimental Methods in Humanistic Research. His research interests include Caribbean culture and history, digital humanities and technology design for different infrastructural and socio-economic environments, and the ownership and material extent of the cultural and scholarly record. He is currently senior editor of archipelagos journal, co-organizer of The Caribbean Digital annual conference, and co-principal investigator of the Caribbean Digital Scholarship Collective, funded by the Andrew W. Mellon foundation.

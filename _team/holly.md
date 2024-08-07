@@ -1,5 +1,6 @@
 ---
 name: Holly Nelson
+jobtitle: Transcriber and Translator, French Language Team
 image: /assets/figures/headshots/holly.jpg
 ---
 is a doctoral student and Rackham Merit Fellow at the University of Michigan, pursuing a joint Ph.D. in English Literature and History. She is a Transcriber/Translator for Keywords for Black Louisiana. Her research interests include performance studies, the modernist novel, dance and movement, the Harlem Renaissance, and James Joyce studies. Holly is a recent graduate of Johns Hopkins University (Phi Beta Kappa), where she received a B.A. in English, History, and Medicine, Science, and the Humanities and researched twentieth-century performance as a Woodrow Wilson Research Fellow. In 2023, Holly received JHU’s Arthur Kouguell History Prize for her thesis on the Dance Theatre of Harlem, JHU’s Michel-Rolph Trouillot Anthropology Prize for her work on Zora Neale Hurston’s playwriting, and the Dante Society of America’s annual Dante Prize for the best undergraduate essay in North America on the life and/or work of Dante Alighieri. At U-M, Holly is a Research Associate at the Detroit River Story Lab and teaches a writing course on the literary and performance cultures of the 1920s.
