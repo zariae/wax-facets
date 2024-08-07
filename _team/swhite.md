@@ -1,6 +1,6 @@
 ---
 name: Sophie White
-jobtitle: Subject Matter Specialist, Editorial Team
+jobtitle: Subject Matter Expert, Editorial Team
 image:
 ---
 is the Joseph and Elizabeth Robbie College Professor and Professor of American Studies. She also holds Concurrent Appointments as Professor of Africana Studies, of History, and of Gender Studies, and is a Fellow of the Nanovic Institute for European Studies, the Klau Institute for Civil and Human Rights, and the Institute for Race and Resilience at the University of Notre Dame.  

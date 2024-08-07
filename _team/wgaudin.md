@@ -1,5 +1,6 @@
 ---
 name: Wendy A. Gaudin
+jobtitle: Community Engagement Team Member
 image: /assets/figures/headshots/drgaudin.jpg
 ---
 is an historian and a writer whose interdisciplinary work centers Southern-descended, mixed-heritage and mixed-race populations and histories. Gaudin writes across genres, including creative nonfiction, autoethnography, oral history, narrative poetry, and personal narrative. Because she writes about people who are often historically dismissed or erased, thus whose historical record is incomplete, Gaudin supplements archival resources with the tools of speculative or conjectural history to construct the lives of her ancestors and those who occupy a similar social category. As a mixed-heritage Louisiana Creole of Color whose elders migrated to California in the first half of the twentieth century, Gaudin is deeply moved, shaped, and inspired by her family’s and expansive community’s story, which embodies themes such as race and hybridity, skin color and ancestry, migration, family, and memory. Her first monograph, *Sunset Limited: An Autobiography of Creole* (LSU Press, Spring 2025), straddles autoethnography and creative nonfiction, and establishes her voice as a diasporic Afro-Creole writer.
