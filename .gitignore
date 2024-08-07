@@ -2,7 +2,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-*.pdf
 .DS_Store
 .liquidrc
 *.icloud
