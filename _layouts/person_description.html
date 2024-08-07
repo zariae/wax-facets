@@ -2,22 +2,27 @@
 layout: keywords_collection_item
 pagination: true
 meta:
-  - label: "Name 2"
-    value: page.name_2
-  - label: "Name 3"
-    value: page.name_3
-  - label: "Name 4"
-    value: page.name_4
-  - label: "Name 5"
-    value: page.name_5
+  - label: "Given Name"
+    value: page.given_name
+  - label: "Surname / Enslaver Name"
+    value: page.surname_enslaver
+  - label: "Alias"
+    value: page.dit_alias
+  - label: "Alternate First Name"
+    value: page.alt_first_name
+  - label: "Alternate Surname / Enslaver Name"
+    value: page.alt_surname_enslaver
+  - label: "Nation Given"
+  - label: "Descendant Surnames"
+    value: page.descendant_surnames
+  - label: "Alternate Descendant Surnames"
+    value: page.alt_descendant_surnames
   - label: "Biographical Notes"
     value: page.biographical_notes
   - label: "Racial Descriptions"
     value: page.racial_descriptions
   - label: "Ethnic Descriptions"
     value: page.ethnic_descriptions
-  - label: "Nation"
-    value: page.nation
   - label: "Status"
     value: page.status
   - label: "Age Notes"
@@ -29,6 +34,8 @@ meta:
     targetField: pid
     delimiter: ','
     displayField: "label"
+  - label: "Document Descriptions"
+    value: page.document_descriptions
   - label: "Also present in"
     value: page.other_documents_present
     type: internal-link
@@ -42,7 +49,9 @@ meta:
     collection: people
     targetField: pid
     delimiter: ","
-    displayField: "name"
+    displayField: "full_name"
+  - label: "Stories"
+    value: page.stories
   - label: "Found in stories"
     value: page.stories
   - label: "Editor"
@@ -51,7 +60,7 @@ meta:
     value: page.daem_comments
 ---
 
-<h1 class="item-label">{{ page.name }}</h1>
+<h1 class="item-label">{{ page.full_name }}</h1>
 
 {%- capture alternate_names -%}
 {{ page.name_2 }}, {{ page.name_3 }}, {{ page.name_4 }}, {{ page.name_5 }}
