@@ -17,8 +17,7 @@ Blackbird, Leila K. “‘It Has Always Been Customary to Make Slaves of Savages
 —. “Entwined Threads of Red and Black: The Hidden History of Indigenous Enslavement in Louisiana, 1699-1824.” MA Thesis, University of New Orleans, 2018\.   
 [https://scholarworks.uno.edu/td/2559](https://scholarworks.uno.edu/td/2559).  
   
-—, et al.  “Climates of Inequality – Standing Up on River Road: Activism in South Louisiana.”   
-The Midlo Center for New Orleans Studies and Rutgers Humanities Action Lab. [https://](https://climatesofinequality.org/story/standing-up-on-river-road-activism-in-south-louisiana/)   
+—, et al.  “Climates of Inequality – Standing Up on River Road: Activism in South Louisiana.” The Midlo Center for New Orleans Studies and Rutgers Humanities Action Lab. [https://](https://climatesofinequality.org/story/standing-up-on-river-road-activism-in-south-louisiana/)   
 [climatesofinequality.org/story/standing-up-on-river-road-activism-in-south-louisiana/](https://climatesofinequality.org/story/standing-up-on-river-road-activism-in-south-louisiana/).   
   
 Bolton, Herbert Eugene, ed. and trans. *Athanase de Mézières and the Louisiana-Texas Frontier, 1768-1780.* Cleveland: The Arthur H. Clark Company, 1914\.  
@@ -48,9 +47,11 @@ Ellis, Elizabeth. “The Natchez War Revisited: Violence, Multinational Settleme
 Everett, Donald. “Free Persons of Color in Colonial Louisiana.” *Louisiana History* 7, no. 1 (1966): 21-50. [https://www.jstor.org/stable/4230881](https://www.jstor.org/stable/4230881).    
   
 Fiehrer, Thomas Marc. “The African Presence in Colonial Louisiana: Essay on the Continuity of Caribbean Culture,” in *Louisiana's Black Heritage,* Robert Macdonald, ed. Baton Rouge: Louisiana State Museum, 1979\.  
+  
 Fuentes, Marisa J. *Dispossessed Lives: Enslaved Women, Violence, and the Archive.* Philadelphia: University of Philadelphia, 2016\.  
   
 Garrigus, John D. *Before Haiti: Race and Citizenship in French Saint-Domingue.* New York: Macmillan, 2006\.  
+  
 Garraway, Doris L. *The Libertine Colony: Creolization in the Early French Caribbean.* Durham: Duke University, 2005\.  
   
 Goffe, Tao Leigh. “Unmapping the Caribbean: Toward a Digital Praxis of Archipelagic Sounding.” *Archipelagos: A Journal of Caribbean Digital Praxis* no. 5 (2020). [http://archipelagosjournal.org/issue05/goffe-unmapping.html](http://archipelagosjournal.org/issue05/goffe-unmapping.html).   
@@ -65,8 +66,7 @@ Hall, Gwendolyn Midlo. *Africans in Colonial Louisiana: The Development of Afro-
   
 Hanger, Kimberly S. *Bounded Lives, Bounded Places: Free Black Society in Colonial New Orleans, 1769-1803.* Durham: Duke University, 1997\.  
   
-Hartman, Saidiya. *Lose Your Mother: A Journey Along the Atlantic Slave Route.* New York:   
-Farrar, Straus & Giroux, 2006\.   
+Hartman, Saidiya. *Lose Your Mother: A Journey Along the Atlantic Slave Route.* New York: Farrar, Straus & Giroux, 2006\.   
   
 —.  *Scenes of Subjection: Terror, Slavery, and Self-Making in Nineteenth-Century America.* Oxford: Oxford University, 1997\.  
   
@@ -78,8 +78,7 @@ Ingersoll, Thomas N. *Mammon & Manon in Early New Orleans: The First Slave Socie
   
 Johnson, Jessica Marie. “Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads.” *Social Text* 36, no. 4 (2018): 57-79. [https://doi.org/10.1215/01642472-7145658](https://doi.org/10.1215/01642472-7145658).   
   
-*—.  Wicked Flesh: Black Women, Intimacy, and Freedom in the Atlantic World.* Philadelphia:   
-University of Pennsylvania, 2020\.  
+*—.  Wicked Flesh: Black Women, Intimacy, and Freedom in the Atlantic World.* Philadelphia: University of Pennsylvania, 2020\.  
   
 Johnson, Rashauna. *Slavery’s Metropolis: Unfree Labor in New Orleans during the Age of Revolutions*. Cambridge: Cambridge University, 2016\.  
   
@@ -132,7 +131,8 @@ Scott, Rebecca J. and Jean M. Hébrard. *Freedom Papers: An Atlantic Odyssey in 
   
 Sharpe, Christina. *In the Wake: On Blackness and Being*. Durham: Duke University, 2016\.  
   
-Spear, Jennifer M. “Colonial Intimacies: Legislating Sex in French Louisiana.” *The William & Mary Quarterly* 6, no. 1 (2003): 75-98. [https://www.jstor.org/stable/pdf/3491496.pdf](https://www.jstor.org/stable/pdf/3491496.pdf).   
+Spear, Jennifer M. “Colonial Intimacies: Legislating Sex in French Louisiana.” *The William & Mary Quarterly* 6, no. 1 (2003): 75-98. [https://www.jstor.org/stable/pdf/3491496.pdf](https://www.jstor.org/stable/pdf/3491496.pdf).  
+   
 —.  *Race, Sex, and Social Order in Early New Orleans*. Baltimore: Johns Hopkins, 2009\.  
   
 Sublette, Ned. *The World That Made New Orleans: From Spanish Silver to Congo Square.* Chicago: Chicago Review, 2008\.  
