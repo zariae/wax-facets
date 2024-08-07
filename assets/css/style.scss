@@ -58,22 +58,3 @@ $max-width: 100%;
 
 @import "facets";
 @import "keywords";
-
-/* footer */
-
-.footer {
-  background-color: $footer-bg-color;
-  color: $footer-text-color;
-  padding: 20px 0;
-
-  .container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: 100%;
-  }
-
-  p {
-    margin: 0;
-  }
-}
