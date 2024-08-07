@@ -14,11 +14,9 @@ Becker, Cynthia J. “Confederate Soldiers, Voodoo Queens, and Black Indians: Mo
   
 Blackbird, Leila K. “‘It Has Always Been Customary to Make Slaves of Savages’: The Problem of Indian Slavery in Spanish Louisiana Revisited, 1769-1803,” *The William & Mary Quarterly* 80, no. 3 (July 2023): 525-58. [https://doi.org/10.1353/wmq.2023.a903166](https://doi.org/10.1353/wmq.2023.a903166).   
   
-—. “Entwined Threads of Red and Black: The Hidden History of Indigenous Enslavement in Louisiana, 1699-1824.” MA Thesis, University of New Orleans, 2018\.   
-[https://scholarworks.uno.edu/td/2559](https://scholarworks.uno.edu/td/2559).  
+—. “Entwined Threads of Red and Black: The Hidden History of Indigenous Enslavement in Louisiana, 1699-1824.” MA Thesis, University of New Orleans, 2018\. [https://scholarworks.uno.edu/td/2559](https://scholarworks.uno.edu/td/2559).  
   
-—, et al.  “Climates of Inequality – Standing Up on River Road: Activism in South Louisiana.” The Midlo Center for New Orleans Studies and Rutgers Humanities Action Lab. [https://](https://climatesofinequality.org/story/standing-up-on-river-road-activism-in-south-louisiana/)   
-[climatesofinequality.org/story/standing-up-on-river-road-activism-in-south-louisiana/](https://climatesofinequality.org/story/standing-up-on-river-road-activism-in-south-louisiana/).   
+—, et al.  “Climates of Inequality – Standing Up on River Road: Activism in South Louisiana.” The Midlo Center for New Orleans Studies and Rutgers Humanities Action Lab. [https://climatesofinequality.org/story/standing-up-on-river-road-activism-in-south-louisiana/](https://climatesofinequality.org/story/standing-up-on-river-road-activism-in-south-louisiana/).   
   
 Bolton, Herbert Eugene, ed. and trans. *Athanase de Mézières and the Louisiana-Texas Frontier, 1768-1780.* Cleveland: The Arthur H. Clark Company, 1914\.  
   
