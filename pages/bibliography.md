@@ -3,11 +3,21 @@ layout: page
 title: Selected Bibliography
 permalink: /bibliography/
 ---
-  
+
+"But what sustained enslaved African people was a memory of freedom, dreams of seizing it, and conspiracies to enact it—fugitive planning, if you will. If we reduce the enslaved to mere fungible bodies, we cannot possibly understand how they created families, communities, sociality; how they fled and loved and worshiped and defended themselves; how they created the world’s first social democracy."
+
+Kelley, Robin D. G. “Black Study, Black Struggle.” Boston Review, March 7, 2016. http://bostonreview.net/forum/robin-d-g-kelley-black-study-black-struggle.  
+
+# Texts We Study  
+
 Aubert, Guillaume. “‘The Blood of France’: Race and Purity of Blood in the French Atlantic World.” *The William and Mary Quarterly* 61, no. 3 (July 2004): 439-78. [https://www.jstor.org/stable/3491805](https://www.jstor.org/stable/3491805).  
   
 Baptist, Edward. *The Half Has Never Been Told: Slavery and the Making of American Capitalism.* New York: Basic Books, 2014\.  
-  
+
+Bruce "Sunpie" Barnes and Rachel Breunlin, Le Ker Creole. New Orleans, LA: University of New Orleans Press, 2019.  
+
+—and Rachel Breunlin, eds., Talk That Music Talk: Passing On Brass Band Music In New Orleans “The Traditional Way.” New Orleans, LA: University of New Orleans Press, 2014.  
+
 Barthé, Darryl, Andrew Jolivétte, and Rain Prud’homme-Cranford, eds. *Louisiana Creole Peoplehood: Afro-Indigeneity & Community*. Seattle: University of Washington, 2022\.  
   
 Becker, Cynthia J. “Confederate Soldiers, Voodoo Queens, and Black Indians: Monuments and Counter-Monuments in New Orleans.” De Arte 54, no. 2 (2019): 41-64.  
@@ -41,10 +51,20 @@ Driscoll, Matthew J. and Elena Pierazzo, eds. *Digital Scholarly Editing: Theory
 Ellis, Elizabeth. “The Natchez War Revisited: Violence, Multinational Settlements, and Indigenous Diplomacy in the Lower Mississippi Valley.” *The William & Mary Quarterly* 77, no. 3 (2020): 441-72. [https://www.muse.jhu.edu/article/761429](https://muse.jhu.edu/article/761429).  
   
 —.  *The Great Power of Small Nations: Indigenous Diplomacy in the Gulf South.* Philadelphia: University of Pennsylvania Press, 2023\.  
+
+Evans, Freddi Williams. Congo Square: African Roots in New Orleans  
+
+-- Hush Harbor: Praying in Secret  
+
+-- The Battle of New Orleans: The Drummer's Story  
+
+-- A Bus of Our Own  
   
 Everett, Donald. “Free Persons of Color in Colonial Louisiana.” *Louisiana History* 7, no. 1 (1966): 21-50. [https://www.jstor.org/stable/4230881](https://www.jstor.org/stable/4230881).    
   
 Fiehrer, Thomas Marc. “The African Presence in Colonial Louisiana: Essay on the Continuity of Caribbean Culture,” in *Louisiana's Black Heritage,* Robert Macdonald, ed. Baton Rouge: Louisiana State Museum, 1979\.  
+
+Frazier D. The Nickel: A History of African-Descended People in Houston’s Fifth Ward. Genealogy. 2020; 4(1):33. https://doi.org/10.3390/genealogy4010033  
   
 Fuentes, Marisa J. *Dispossessed Lives: Enslaved Women, Violence, and the Archive.* Philadelphia: University of Philadelphia, 2016\.  
   
@@ -57,11 +77,21 @@ Goffe, Tao Leigh. “Unmapping the Caribbean: Toward a Digital Praxis of Archipe
 Gomez, Michael A. *Exchanging Our Country Marks: The Transformation of African Identities in the Colonial and Antebellum South.* Chapel Hill: University of North Carolina, 1998\.  
   
 Gray, D. Ryan. *Uprooted: Race, Public Housing, and the Archaeology of Four Lost New Orleans Neighborhoods.* Tuscaloosa: University of Alabama, 2020\.  
-  
+
+griffin, Shana M., Sooner of Later, Somebody's Gonna Fight Back  
+
 Hall, Gwendolyn Midlo. *Africans in Colonial Louisiana: The Development of Afro-Creole Culture in the Eighteenth Century*. Baton Rouge: Louisiana State University, 1995\.  
   
 —.  *Databases for the Study of Afro-Louisiana History and Genealogy, 1699-1860.* Baton Rouge: Louisiana State University 1999\.   
   
+Kathe Hambrich, Juke Joint Men  
+
+-- Oh Say Can You See: Flag Paintings of Malaika Favorite  
+
+-- Our Roots Run Deep  
+
+-- Freedoms' Journey: Understanding the Underground Railroad in South Louisiana  
+
 Hanger, Kimberly S. *Bounded Lives, Bounded Places: Free Black Society in Colonial New Orleans, 1769-1803.* Durham: Duke University, 1997\.  
   
 Hartman, Saidiya. *Lose Your Mother: A Journey Along the Atlantic Slave Route.* New York: Farrar, Straus & Giroux, 2006\.   
@@ -114,14 +144,42 @@ New Orleans African American Museum. “Creolizing Currents: Bambara History.”
 Pierce, Jason. “For Its Incorporation in Our Union: The Louisiana Territory and the Conundrum of Western Expansion”in *Making the White Man’s West: Whiteness and the Creation of the American West.* Boulder: University of Colorado, 2016\.  
   
 Risam, Roopika. *New Digital Worlds: Postcolonial Digital Humanities in Theory, Practice, and Pedagogy.* Chicago: Northwestern University, 2018\.  
+
+Shearon Roberts, Media Discourse in Haiti  
+
+--, Post-Katrina Catharsis: The Mediated Rebirth of New Orleans  
+
+--- Oil and Water: Media Lessons from Hurricane Katrina and the Deepwater Horizon Oil Disaster 
+
+-- "Then and Now: Haitian Journalism as Resistance to US Occupation and US-Led Reconstruction." Journal of Haitian Studies, vol. 21 no. 2, 2016, p. 241-268. Project MUSE, https://doi.org/10.1353/jhs.2016.0004.
+
   
 Roberts, Richard L. *Warriors, Merchants, and Slaves: The State and the Economy in the Middle Niger Valley, 1700-1914*. Stanford: Stanford University Press, 1987\.   
+
+Kristina Kay Robinson, Mixed Company  
+
+-- and V. Mitch McEwen, "Rebellious Architecture: Bayou Reconstructed" in Architectural Design, Special Issue: Alt-Form: Interdeterminacy and Disorder vol. 92, no. 2 (March/April 2022): 104-113. https://doi.org/10.1002/ad.2800. 
+
   
 Rodrigue, John C. “Slavery in French Colonial Louisiana.” *64 Parishes*. The Historic New Orleans Collection, February 22, 2022\. [https://knowla-dev.tulane.edu/entry/ slavery-in-french-colonial-louisiana](https://knowla-dev.tulane.edu/entry/slavery-in-french-colonial-louisiana).    
   
+Mona Lisa Saloy, Red Beans & Ricely Yours (Black Bayou Press, 2021, orig. pub. 2005)  
+
+-- Second Line Home (Black Bayou Press, 2021, orig. pub. 2014)  
+
+-- Between Laughter and Tears: Black Mona Lisa Poems (Black Bayou Press, 1995)  
+
+-- Black Creole Chronicles (University of New Orleans Press, 2023)  
+
 Savage, Kirk. *Standing Soldiers, Kneeling Slaves: Race, War, and Monument in Nineteenth-Century America, New Edition.* Princeton: Princeton University Press, 2018\.  
-  
+
+Ibrahima Seck, Bouki Fait Gombo: A History of the Slave Community of Habitation Haydel (Whitney PLantation) Louisiana, 1750-1860 (New Orleans: UNP Press, 2014)
+
+-- "Les Français et la traite des esclaves en Sénégambie." Dix-huitième siècle 1 (2012): 49-60.  
+
 Scott, David. "That Event, This Memory: Notes on the Anthropology of African Diasporas in the New World.” *Diaspora* 1, no. 4 (1991): 261-84. [doi:10.1353/dsp.1991.0023](http://doi.org/10.1353/dsp.1991.0023).  
+
+Sharlene Sinegal-DeCuir, "'Nothing Is To Be Feared': Normal C. Francis, Civil RIghts Activism, and the Black Catholic Movement"
   
 Smallwood, Stephanie. *Saltwater Slavery: A Middle Passage from Africa to the American Diaspora.* Cambridge: Harvard University, 2007\.  
   
@@ -147,8 +205,17 @@ Vidal, Cécile. *Caribbean New Orleans: Empire, Race, and the Making of a Slave 
   
 Vincent, Charles. “‘Of Such Historical Importance’: The African American Experience in Louisiana.” *Louisiana History* 50, no. 2 (2009): 133-58. [https://www.jstor.org/stable/ 25478640](https://www.jstor.org/stable/25478640).   
   
-Waters, Leon A. “Jan. 8, 1811: Louisiana’s Heroic Slave Revolt.” *Zinn Education Project.* 2019\. [https://www.zinnedproject.org/news/tdih/louisianas-slave-revolt/](https://www.zinnedproject.org/news/tdih/louisianas-slave-revolt/).   
+Leon Waters, On To New Orleans: Louisiana's Heroic 1811 Slave Revolt
   
 White, Sophie. *Wild Frenchmen and Frenchified Indians: Material Culture and Race in Colonial Louisiana* Philadelphia: University of Pennsylvania Press, 2012\.  
   
-—.  *Voices of the Enslaved: Love, Labor, and Longing in French Louisiana.* Chapel Hill: University of North Carolina, 2021\.
+—.  *Voices of the Enslaved: Love, Labor, and Longing in French Louisiana.* Chapel Hill: University of North Carolina, 2021\.  
+
+## Other Projects
+
+Malik Bartholomew, Know NOLA blog
+Freddi Evans, Congo Square Connections 
+Shana M. griffin, DISPLACED ; Gestures of Refusal 
+Alex Lee, Alexgeneaology
+Angela Proctor, Opinions Regarding Slavery: Slave Narratives 
+
