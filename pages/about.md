@@ -5,11 +5,6 @@ permalink: /about/
 ---
 !["Veüe et Perspective de la Nouvelle Orleans" (View & Perspective of New Orleans), 1726. Ink and watercolor by Jean-Pierre Lassus. Detail of left side of illustation. View shows the young city of New Orleans from across the Mississippi River at Algiers Point. In the foreground, slaves labor on the West Bank (then a Company of the Indies plantation) downing trees. To right of center, a man spears an alligator. Small boats are on the Mississippi, with larger sailing ships across the River at the town. Trees are shown cleared only a short distance beyond the town limits. The road to Bayou St. John seen towards top center of view. This is said to be the only known contemporary view of the city from the first French Colonial era, before Louisiana was transfered to Spain in 1763. From Wikimedia]({% link /assets/figures/vueetperspective.jpg %})  
 
-<<<<<<< HEAD
-{% include feature/nav-menu.html sections="About the Document Site;Introduction to K4BL;Values;About the Louisiana Colonial Documents Digitization Site;NHPRC;LifexCode" %}
-
-## Introduction to the Documents
-=======
 ## Introduction to K4BL  
 
 Keywords for Black Louisiana (K4BL) is a collective of researchers creating digital projects highlighting the Black life and culture of the Gulf Coast. With the support of funding from the National Historic Publications and Records Commission, K4BL is building a community-engaged digital edition of annotated, transcribed and translated manuscript documents from 18th century (French and Spanish) Louisiana. The stories in these documents describe the lives and resistance of enslaved and free people of African descent against bondage, colonialism, and the everyday terror of slavery. Access to the stories of Black life in these documents has been limited to those trained in paleography or with French and/or Spanish translation skills. Providing access to the stories in these documents through English language translations and digital access does more than offer researchers, teachers, public historians, and artists opportunities to learn from the centuries-long Black freedom struggle Gulf Coast communities have been engaged in. It also creates a tremendous resource for African descended communities in Louisiana whose ancestors fueled some of the most important moments in American history.  
@@ -28,7 +23,6 @@ Through the Louisiana Colonial Document Digitization Project (LCDDP), approximat
 The LHC holds the majority of Louisiana’s eighteenth-century documents, however only approximately 3/5ths of them are at the Louisiana Historical Center. Another 2/5ths (some 110 to 120,000 documents) of the colonial documents are held by the New Orleans Notarial Archives. A smaller, undefined number are held at the New Orleans Public Library. For more on the spread of documentation on French and Spanish-occupied Louisiana, see "Housing the Louisiana Archive" a StoryMap created by Olivia Barnard, Associate French Editor and Doctoral Candidate, Department of History, Johns Hopkins University. See also Howard Margot, “Historical Peregrinations of New Orleans’s French Superior Council and Spanish Judicial Records,” Collections: A Journal for Museum and Archives Professionals 11, no. 3 (June 2015): 171–84.
 
 We are grateful to the LCDDP for permitting widespread use of their database and allowing us to provide page images of manuscript sources on our document and story sites.
->>>>>>> efc8dc9abe93ad7f5821285f89f1f7146c8163ad
 
 
 ## NHPRC
