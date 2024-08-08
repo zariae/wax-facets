@@ -76,7 +76,7 @@ menu:
   - label: "About"
     sub:
       - label: "The Journey"
-        label: "/howdidwegethere"
+        label: "/howdidwegethere/"
       - label: "The Project"
         link: "/about/"
       - label: "The Team"
