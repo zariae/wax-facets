@@ -1,6 +1,6 @@
 ---
-layout: team_page
-title: Community Circle Advisory Board
+layout: page
+title: Keywords Community Circle Advisory Board
 gallery: True
 permalink: /kccab/
 ---

@@ -76,7 +76,7 @@ menu:
   - label: "About"
     sub:
       - label: "The Journey"
-        label: "/howdidwegethere/"
+        label: "/journey/"
       - label: "The Project"
         link: "/about/"
       - label: "The Team"
@@ -97,10 +97,12 @@ menu:
         link: "https://stories.k4bl.org"
   - label: "Resources"
     sub:
+      - link: "History"
+        label: "/history/"
       - label: "Bibliography"
         link: "/bibliography/"
       - label: "Documentation"
-        link: "/documentation"
+        link: "https://github.com/lxcprojects/k4bl"
       - label: "Contact Us"
         link: "/contact/"
   - label: "Search"
