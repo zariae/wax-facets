@@ -9,7 +9,7 @@ layout: home
 ---
 
 ## Keywords for Black Louisiana
-### Stories of Black Life in Colonial Louisiana
+### Documents on Black Life in Colonial Louisiana
 
 ![Image: The French Market-The Hen Trader, Scribner's Monthly (Nov.1873-Apr.1874), vol. VII, p. 147. (Copy in Special Collections Department, University of Virginia Library) via [Slavery Images](http://slaveryimages.org/s/slaveryimages/item/754)](assets/figures/poultry+vendor.png)
 
