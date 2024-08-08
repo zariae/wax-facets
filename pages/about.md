@@ -56,7 +56,7 @@ NHPRC administrative staff at the National Archives in Washington, DC:
 * advises NHPRC on proposals
 * provides advice and assistance to potential applicants and grantees  
 
-## LifexCode
+## LifexCode  
 
 LifexCode offers a grammar of refusal and a language of freedom for the (digital) humanities. Founded in 2020, by Drs. Jessica Marie Johnson and Christina Thomas, LifexCode is an ecosystem of labs, projects, community partners, and members exploring, creating, and centering antiracist and decolonial digital humanities practices.  
 
