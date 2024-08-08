@@ -81,6 +81,8 @@ menu:
         link: "/about/"
       - label: "The Team"
         link: "/team/"
+      - label: "KCCAB"
+        link: "/kccab/"
       - label: "Contact Us"
         link: "/contact/"
   - label: "Discover"
