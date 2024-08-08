@@ -73,11 +73,13 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: "About Us"
+  - label: "About"
     sub:
-      - label: "Project"
+      - label: "The Journey"
+        label: "/howdidwegethere"
+      - label: "The Project"
         link: "/about/"
-      - label: "Team"
+      - label: "The Team"
         link: "/team/"
       - label: "Contact Us"
         link: "/contact/"
@@ -89,6 +91,8 @@ menu:
         link: "/keywords_descriptions/abuse.html"
       - label: "People"
         link: "/people/"
+      - label: "Stories"
+        link: "https://stories.k4bl.org"
   - label: "Resources"
     sub:
       - label: "Bibliography"
