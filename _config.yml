@@ -101,6 +101,8 @@ menu:
         label: "History"
       - label: "Bibliography"
         link: "/bibliography/"
+      - label: "Reflections"
+        link: "/reflections/"
       - label: "Documentation"
         link: "https://github.com/lxcprojects/k4bl"
       - label: "Contact Us"
