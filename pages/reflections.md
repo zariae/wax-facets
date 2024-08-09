@@ -54,8 +54,10 @@ In his 2015 book Slaves of One Master: Globalization and Slavery in Arabia in th
 Louisiana in the 1730s required slaveholders to record and report when the people they held in bondage ran away. Through both the initial reports and later documents filed in their pursuit, compiled by Keywords for Black Louisiana, I encountered two Bambara men, Vulcan and Antoine (a double amputee), as well as a woman, Fanchon of the Senegal nation, who had fled to Cuba in the summer of 1739. The trio were assisted by another enslaved person, described as a “Spanish mulatress,” in stealing a pirogue and were never seen in Louisiana again. When their whereabouts were sought years later, it was reported that Fanchon had passed away, and that Antoine lived in the woods, while Vulcan sold beer in Havana. I wonder what names they called themselves, each other. What answers they gave the authorities, their neighbors when questioned about their identities.  
 
 Read the entire essay, published at *The Burnaway* [here](https://burnaway.org/magazine/letter-from-new-orleans-never-can-say-goodbye/)
+    
+## The Black & Indigenous Research Adventure by Mona Lisa Saloy (Keywords Community Circle and Advisory Board Member, joined in 2022)  
 
-## The Black & Indigenous Research Adventure by Mona Lisa Saloy (Keywords Community Circle and Advisory Board Member, joined in 2022)
+![Big Chief David Montana, Loyola University Community and Resilience Collection](/assets/figures/bigchiefdavidmontana.jpeg)
 
 **Africans, their Descendants & Indigenous Connections #HonorNativeLand!**
 
