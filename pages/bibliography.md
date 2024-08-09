@@ -213,9 +213,9 @@ White, Sophie. *Wild Frenchmen and Frenchified Indians: Material Culture and Rac
 
 ## Other Projects
 
-Malik Bartholomew, Know NOLA blog
-Freddi Evans, Congo Square Connections 
-Shana M. griffin, DISPLACED ; Gestures of Refusal 
-Alex Lee, Alexgeneaology
-Angela Proctor, Opinions Regarding Slavery: Slave Narratives 
+Malik Bartholomew, [Know NOLA blog](https://knownolablog.wordpress.com/)  
+Freddi Evans, [Congo Square Connections](https://congosquareconnection.org/)  
+Shana M. griffin, [DISPLACED](https://www.displacedneworleans.com/[) | [Gestures of Refusal](https://cacno.org/visual-arts/gestures)  
+Alex Lee, [Alexgeneaology](https://alexgenealogy.com/home/)  
+Angela Proctor, [Opinions Regarding Slavery: Slave Narratives](http://7008.sydneyplus.com/final/Portal/SouthernUniversity.aspx?lang=en-USS)  
 

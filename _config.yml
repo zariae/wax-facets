@@ -75,10 +75,10 @@ search:
 menu:
   - label: "About"
     sub:
-      - label: "The Journey"
-        link: "/journey/"
       - label: "The Project"
         link: "/about/"
+      - label: "The Journey"
+        link: "/journey/"
       - label: "The Team"
         link: "/team/"
       - label: "KCCAB"
