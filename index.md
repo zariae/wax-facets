@@ -11,7 +11,7 @@ layout: home
 ## Keywords for Black Louisiana
 ### Documents on Black Life in Colonial Louisiana
 
-![Image: Excerpt from the manuscript version of the "Mama Comba" trial stylized with a light pink background and green writing)](assets/figures/intropink.png)
+![Image: Excerpt from the manuscript version of the "Mama Comba" trial stylized with a light pink background and green writing)](/assets/figures/intropink.png)
 
 The stories of African and African descended people—family, culture, labor, resistance, survival, and day to day life—in eighteenth-century Louisiana appear in the colonial archive, sometimes where we least expect them. This digital project uses the scholarship of Black feminist scholars, historians, and public intellectuals to center Black and Black-Native life in French and Spanish colonial archives dating from 1714 to 1803. Foregrounding and engaging African and African descended people in the past opens doors to reimagine our histories, envision different futures, build new solidarities and points of connection, bridge gaps across the diaspora, and turn an ear to a plethora of often-marginalized voices and perspectives.
 

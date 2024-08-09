@@ -50,7 +50,7 @@ Sheridan Libraries is a sustaining, institutional, and technology partner and co
 
 [LifexCode: Digital Humanities Against Enclosure](http://lifexcode.org) offers a grammar of refusal and a language of freedom for the (digital) humanities. Founded in 2020, by Drs. Jessica Marie Johnson and Christina Thomas, LifexCode is an ecosystem of labs, projects, community partners, and members exploring, creating, and centering antiracist and decolonial digital humanities practices.   
   
-![LifexCode logo with mangrove](assets/figures/lxclogoNEW.jpg)  
+![LifexCode logo with mangrove](/assets/figures/lxclogoNEW.jpg)  
   
 The tree representing the LifexCode collective in our new logo is called a mangrove:  
  
