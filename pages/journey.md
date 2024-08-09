@@ -4,7 +4,7 @@ title: The Journey
 permalink: /journey/
 ---
   
-![Keywords Black History in Louisiana Summer Workshop II (2023)](/assets/figures/stlandrykccab2023.jpg)  
+![Keywords Black History in Louisiana Summer Workshop II (2023)](/assets/figures/stlandrykccab2023resized.jpeg)  
 
 
 ## What is Keywords for Black Louisiana?
