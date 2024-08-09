@@ -13,10 +13,10 @@ Keywords for Black Louisiana (K4BL) is a collective of researchers creating digi
 K4BL centers African descended Gulf Coast communities and accountability to Black humanity at every level of the project, from the annual Black History Summer Workshop for Black public historians in Louisiana, to our collaborations with team members at Louisiana historically black colleges and universities, to our intergenerational and decentralized leadership structure, to our commitment to Black Digital Humanities (DH) principles.  
 
 We hope K4BL can provide a model for community-engaged digital recovery and preservation that will be remixed and reused by digital historians, computational humanists, data scientists, and digital humanities practitioners broadly who are looking for ethical and humane ways to center the needs of Black communities and institutions on the ground in the work of creating and curating digital materials.   
-
-![East Side of the Mississippi River (2016), Credit: Jessica Marie Johnson](/assets/figures/eastsideofthemissriverresized.jpeg)
   
 ## How Did We Get Here?  
+
+![East Side of the Mississippi River (2016), Credit: Jessica Marie Johnson](/assets/figures/eastsideofthemissriverresized.jpeg)  
 
 Beginning in 2020 as part of [LifexCode: Digital Humanities Against Enclosure](lifexcode.org), and most recently through funding from a National Historic Publications and Records Commission grant, we have embarked on research in Gulf Coast Louisiana’s archive, seeking to expand our historical practice and learn from what eighteenth-century Gulf Coast Louisiana has to teach us.  
   
@@ -28,9 +28,9 @@ In 2024, K4BL transitioned from a two year NHPRC-Mellon planning grant and was a
   
 The stories in these documents describe the lives and resistance of enslaved and free people of African descent against bondage, colonialism, and the everyday terror of slavery. Access to the stories of Black life in these documents has been limited to those trained in paleography with French and/or Spanish translation skills. Our hope is that by providing access to the stories in these documents through English-language translations, we can offer researchers, teachers, public historians, and artists access to the centuries-long freedom struggle Black communities have been engaged in.  
 
-!["Orfèvre ou Forgeron negré" in Renè Claude Geoffroy de Villeneuve, L'Afrique, ou histoire, moeurs, usages et coutumes des africains: le Sènègal (Paris, 1814), vol. 4, facing p. 178 as seen at slaveryimages.org](/assets/figures/1780blacksmithsenegal.jpeg)  
-
 ## Values  
+
+!["Orfèvre ou Forgeron negré" in Renè Claude Geoffroy de Villeneuve, L'Afrique, ou histoire, moeurs, usages et coutumes des africains: le Sènègal (Paris, 1814), vol. 4, facing p. 178 as seen at slaveryimages.org](/assets/figures/1780blacksmithsenegal.jpeg)  
 
 K4BL centers African descended communities and accountability to Black humanity at every level of the project, from the annual Black History Summer Workshop for Black public historians in Louisiana, to our collaborations with team members at Louisiana’s historically black colleges and universities, to our intergenerational and decentralized leadership structure. Guided by Black digital humanities principles, K4BL provides a model for community-engaged digital recovery and preservation that can be remixed and reused by digital historians, computational humanists, data scientists, and digital humanities practitioners broadly who are looking for ethical and humane ways to center the needs of Black communities and institutions on the ground in the work of creation and curation.
 
