@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Us
+title: The Project
 permalink: /about/
 ---
-!["Veüe et Perspective de la Nouvelle Orleans" (View & Perspective of New Orleans), 1726. Ink and watercolor by Jean-Pierre Lassus. Detail of left side of illustation. View shows the young city of New Orleans from across the Mississippi River at Algiers Point. In the foreground, slaves labor on the West Bank (then a Company of the Indies plantation) downing trees. To right of center, a man spears an alligator. Small boats are on the Mississippi, with larger sailing ships across the River at the town. Trees are shown cleared only a short distance beyond the town limits. The road to Bayou St. John seen towards top center of view. This is said to be the only known contemporary view of the city from the first French Colonial era, before Louisiana was transfered to Spain in 1763. From Wikimedia]({% link /assets/figures/vueetperspective.jpg %})  
+!["Veüe et Perspective de la Nouvelle Orleans" (View & Perspective of New Orleans), by Jean-Pierre Lassus, 1726. Ink and watercolor by Jean-Pierre Lassus. Detail of east side of the river. View shows the young city of New Orleans from across the Mississippi River at Algiers Point. Small boats are on the Mississippi, with larger sailing ships across the River at the town. Trees are shown cleared only a short distance beyond the town limits. The road to Bayou St. John seen towards top center of view. This is said to be the only known contemporary view of the city from the first French Colonial era, before Louisiana was transfered to Spain in 1763. Bibliothèque Nationale de France](/assets/figures/lassusveueneworleansDETAIL318kb.jpg)  
 
 ## Introduction to the Documents  
 
@@ -13,6 +13,8 @@ These documents are presented with abstracts and keywords, but largely as-is (wi
 
 ## About the Louisiana Colonial Documents Digitization Project
 
+![Louisiana Colonial Documents Digitization Project screenshot, the New Orleans Jazz Museum logo and the Louisiana State Museum logos](/assets/figures/lacolonialdocscredit.jpg)  
+
 Target documents are currently housed at the Louisiana Historical Center (LHC) and maintained by the New Orleans Jazz Museum, one of our institutional partners. As described on their website, “The Louisiana Colonial Documents Digitization Project’s digitization and online publication of the LHC’s Colonial Documents Collection will exponentially increase access to a rich archive for researchers of every stripe, from high school students to amateur genealogists to academic historians. This twenty-first-century high-tech undertaking marks the most recent phase of a series of efforts stretching back more than a hundred years to make it easier for researchers to navigate this enormous collection of criminal and civil court cases, commercial transactions, successions, wills, and other legal documents dating back to 1714. Global access to these 220,000 pages, handwritten in French and Spanish, will open up these archives as never before to those who study Louisiana and its inhabitants.”
 
 Through the Louisiana Colonial Document Digitization Project (LCDDP), approximately 200,000 pages of colonial documents (created between 1714 and through 1803) have been digitized by the Jazz Museum and catalogued with descriptive metadata, including subject headings. These documents represent at least one hundred genres of archival material including court cases, bills of sale, birth and death notices, manumissions, labor contracts, passports and shipping documentation, promissory notes, and medical examinations.[1] 
@@ -21,11 +23,9 @@ The LHC holds the majority of Louisiana’s eighteenth-century documents, howeve
 
 We are grateful to the LCDDP for permitting widespread use of their database and allowing us to provide page images of manuscript sources on our document and story sites.
 
-
 ## NHPRC
 
 The National Historical Publications and Records Commission (NHPRC), a statutory body affiliated with the National Archives and Records Administration (NARA), supports a wide range of activities to preserve, publish, and encourage the use of documentary sources, created in every medium ranging from quill pen to computer, relating to the history of the United States.  
-
 The NHPRC:
 * was established by Congress in 1934  
 * is a 15-member body
@@ -38,10 +38,20 @@ NHPRC administrative staff at the National Archives in Washington, DC:
 * advises NHPRC on proposals
 * provides advice and assistance to potential applicants and grantees  
 
+## Johns Hopkins University Sheridan Libraries and University Museums
+
+With more than 7.3 million items in a variety of physical, digital, and electronic formats, the Sheridan Libraries provide the major library research resources for Johns Hopkins University.
+
+The system includes the Milton S. Eisenhower Library, Brody Learning Commons, and Albert D. Hutzler Reading Room on the Homewood campus, the John Work Garrett Library at Evergreen Museum & Library, the George Peabody Library on the Peabody campus, and the Frary Library at JHU Bloomberg Center in Washington, D.C.
+
+Sheridan Libraries is a sustaining, institutional, and technology partner and collaborating member of Keywords for Black Louisiana. For more on the SIT Team see [Documentation](https://github.com/lxcprojects/k4bl).  
+
 ## LifexCode  
 
-LifexCode offers a grammar of refusal and a language of freedom for the (digital) humanities. Founded in 2020, by Drs. Jessica Marie Johnson and Christina Thomas, LifexCode is an ecosystem of labs, projects, community partners, and members exploring, creating, and centering antiracist and decolonial digital humanities practices.  
-
+[LifexCode: Digital Humanities Against Enclosure](http://lifexcode.org) offers a grammar of refusal and a language of freedom for the (digital) humanities. Founded in 2020, by Drs. Jessica Marie Johnson and Christina Thomas, LifexCode is an ecosystem of labs, projects, community partners, and members exploring, creating, and centering antiracist and decolonial digital humanities practices.   
+  
+![LifexCode logo with mangrove](assets/figures/lxclogoNEW.jpg)  
+  
 The tree representing the LifexCode collective in our new logo is called a mangrove:  
  
 mangrove: “any of a genus of tropical maritime trees or shrubs that send out many prop roots and form dense masses important in coastal land building and as foundations of unique ecosystems.” Webster’s English Dictionary  
@@ -49,3 +59,7 @@ mangrove: “any of a genus of tropical maritime trees or shrubs that send out m
 Like the mangrove, we labor to transform the salt of enclosure into sweet water and nutrients, rooting deep at the edge of the sea to support and protect ecosystems teeming with resistant and resilient life.  
 
 Tree Image Credit: @ChattPan on Canva  
+
+## Sponsors and Thank Yous  
+
+Keywords for Black Louisiana would like to thank the following additional supporters and sponsors: The Amistad Research Center; Johns Hopkins University Krieger School of Arts and Sciences; the Historic New Orleans Collection; Ray Charles Program in African American Culture at Dillard University; Tulane University; Black Louisiana History Incubators (a Diaspora Solidarities Lab Microlab); the Mellon Foundation; The Ethel and Herman L. Midlo Center for New Orleans Studies at the University of New Orleans; the Tate, Etienne, Prevost (TEP) Center; the Honors Program at Xavier University in Louisiana; and the Black School Design Studio.
