@@ -75,4 +75,13 @@ It is this intersection of discovery that led me to embrace the Keywords for Bla
 
 As an author, Folklorist, scholar, Keywords’ Black & Indigenous project contributes to scholarly knowledge in English, Folklore, History, and literature, and to the general public’s understanding of this place. Final results will add to curricular reform and publications and is directly relevant to research themes of my work as an author of creative works, in Folklore, literature, and scholarship.
 
+## Langston Hughes' "The Negro Speaks of Rivers" offered by Angela Proctor (Keywords Community Circle and Advisory Board Member, joined in 2023)  
+
+![Screenshot of Hughes poem](assets/figures/hughesriversproctor.png) 
+
+
+
+
+
+
 
