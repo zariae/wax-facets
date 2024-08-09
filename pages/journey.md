@@ -15,7 +15,8 @@ K4BL centers African descended Gulf Coast communities and accountability to Blac
 
 We hope K4BL can provide a model for community-engaged digital recovery and preservation that will be remixed and reused by digital historians, computational humanists, data scientists, and digital humanities practitioners broadly who are looking for ethical and humane ways to center the needs of Black communities and institutions on the ground in the work of creating and curating digital materials.   
 
-
+![East Side of the Mississippi River (2016), Credit: Jessica Marie Johnson]({% link /assets/figures/eastsideofthemissriver.jpg %})
+  
 ## How Did We Get Here?  
 
 Beginning in 2020 as part of [LifexCode: Digital Humanities Against Enclosure](lifexcode.org), and most recently through funding from a National Historic Publications and Records Commission grant, we have embarked on research in Gulf Coast Louisiana’s archive, seeking to expand our historical practice and learn from what eighteenth-century Gulf Coast Louisiana has to teach us.  
@@ -27,6 +28,8 @@ We refined our community engagement practices by adding a community team to the 
 In 2024, K4BL transitioned from a two year NHPRC-Mellon planning grant and was awarded an implementation level NHPRC Publications Grant. With the support of an implementation grant, K4BL is expanding this work with the goal of building out a collection of at least 1,800 abstracts of stories centering Black historical subjects, at least 200 unique keywords to describe Black life in the colonial archive, and at least 2000 transcribed/translated colonial document pages with accompanying manuscript document page images courtesy of the LCDDP.  
   
 The stories in these documents describe the lives and resistance of enslaved and free people of African descent against bondage, colonialism, and the everyday terror of slavery. Access to the stories of Black life in these documents has been limited to those trained in paleography with French and/or Spanish translation skills. Our hope is that by providing access to the stories in these documents through English-language translations, we can offer researchers, teachers, public historians, and artists access to the centuries-long freedom struggle Black communities have been engaged in.  
+
+
 
 ## Values  
 
