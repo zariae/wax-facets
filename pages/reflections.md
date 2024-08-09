@@ -77,7 +77,7 @@ As an author, Folklorist, scholar, Keywords’ Black & Indigenous project contri
 
 ## Langston Hughes' "The Negro Speaks of Rivers" offered by Angela Proctor (Keywords Community Circle and Advisory Board Member, joined in 2023)  
 
-![Screenshot of Hughes poem](assets/figures/hughesriversproctor.png) 
+![Screenshot of Hughes poem](/assets/figures/hughesriversproctor.png) 
 
 
 
