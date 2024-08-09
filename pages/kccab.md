@@ -86,18 +86,16 @@ Ms. Honoré is in the process of completing a year-long Creative Assembly reside
 
 ### Alex Lee  
 
-Alex is an experienced researcher and award-winning genealogist, having honed his trade under the tutelage of the former archivist, Keith Fontenot. His extensive database consists of successfully identifying the formerly enslaved families in SW tracing them to their living descendants. His research interests include Slave Research, Acadian Ancestry, Creole Ancestry (including Free People of Color, FPOC), DNA Research Analysis to verify family connections, Colonial Manuscripts, Socia-economic history of Southwest Louisiana, Matriarchal Research (Mothers of the Parish), Community research on relationships between families, as well as Civil, Military and Church Records.
-
-“I am thrilled to have Alex join our team. His experience in Louisiana Creole heritage and family history will help further our understanding of the diverse heritage of Louisiana, especially St.Landry Parish,” stated Clerk of Court, Charles Jagneaux.
-
-Mr. Lee is the current recipient of the 2021 Diverse Heritage Award from the Louisiana Trust for Historical Preservation where he was recognized for achievements in the promotion and preservation of Louisiana’s multicultural and underserved Creole heritage. He uses his passion for genealogy and history to research underserved heritage, promoting his trade at numerous heritage festivals and genealogy workshops throughout the Acadiana parishes.
-
-Alex has been on several university panels regarding his understanding of the Creole culture. He conducts extensive research including civic and church records to provide historical books for individual surnames.
-
-Alex was born in Texas and attended Beaumont Central Medical Magnet High School and Texas Southern University where he majored in music education and history. He also marched in TSU’s famed Ocean of Soul. 
-
-[https://www.stlandrynow.com/breaking-news/st-landry-parish-clerk-of-court-announces-new-archivist-alex-lee/]
-
+Alex is an experienced researcher and award-winning genealogist, having honed his trade under the tutelage of the former archivist, Keith Fontenot. His extensive database consists of successfully identifying the formerly enslaved families in SW tracing them to their living descendants. His research interests include Slave Research, Acadian Ancestry, Creole Ancestry (including Free People of Color, FPOC), DNA Research Analysis to verify family connections, Colonial Manuscripts, Socia-economic history of Southwest Louisiana, Matriarchal Research (Mothers of the Parish), Community research on relationships between families, as well as Civil, Military and Church Records.  
+  
+“I am thrilled to have Alex join our team. His experience in Louisiana Creole heritage and family history will help further our understanding of the diverse heritage of Louisiana, especially St.Landry Parish,” stated Clerk of Court, Charles Jagneaux.  
+  
+Mr. Lee is the current recipient of the 2021 Diverse Heritage Award from the Louisiana Trust for Historical Preservation where he was recognized for achievements in the promotion and preservation of Louisiana’s multicultural and underserved Creole heritage. He uses his passion for genealogy and history to research underserved heritage, promoting his trade at numerous heritage festivals and genealogy workshops throughout the Acadiana parishes.  
+  
+Mr. Lee provides a variety of services, including but not limited to: Lecturer/presenter at genealogy seminars, museums, universities, family gatherings, and heritage festivals; Private research and genealogy consulting through AlexGenealogy©; Family genealogy books; Family records searches; Photo digitalization; Genealogy Databases.  
+  
+Alex was born in Texas and attended Beaumont Central Medical Magnet High School and Texas Southern University where he majored in music education and history. He also marched in TSU’s famed Ocean of Soul.  
+  
 ### Monique Moss
 
 Monique Moss is a New Orleans native, community leader and recipient of the 2020 Preservation Hall Foundation Community Engagement Grant. Join us for our next #CommunitySpotlight featuring Moss’ creative tribute to the Black, Caribbean and Native people who inhabited the city and shaped the culture from its infancy.
