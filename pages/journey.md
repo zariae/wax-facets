@@ -15,7 +15,7 @@ K4BL centers African descended Gulf Coast communities and accountability to Blac
 
 We hope K4BL can provide a model for community-engaged digital recovery and preservation that will be remixed and reused by digital historians, computational humanists, data scientists, and digital humanities practitioners broadly who are looking for ethical and humane ways to center the needs of Black communities and institutions on the ground in the work of creating and curating digital materials.   
 
-![East Side of the Mississippi River (2016), Credit: Jessica Marie Johnson](/assets/figures/eastsideofthemissriver.jpg)
+![East Side of the Mississippi River (2016), Credit: Jessica Marie Johnson](/assets/figures/eastsideofthemissriverresized.jpeg)
   
 ## How Did We Get Here?  
 
