@@ -3,7 +3,7 @@ layout: page
 title: The Journey
 permalink: /journey/
 ---
-
+  
 ![Keywords Black History in Louisiana Summer Workshop II (2023)]({% link /assets/figures/stlandrykccab2023.jpg %})  
 
 
