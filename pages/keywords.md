@@ -5,7 +5,7 @@ collection: keywords_descriptions
 permalink: /keywords_descriptions/
 ---
 
-Keywords offer a dynamic description of a word or concept attuned to the specificities of Black life. Erica R. Edwards, Roderick A. Ferguson, and Jeffrey O. G. Ogbar describe the exercise of cataloguing keywords as "an intellectual practice that has served as a way of expanding and undoing assumptions about knowledge and power as those categories operate in our everyday lives."[^1] Following their practice, with the keywords that we have identified from the documents, we are developing descriptions that detail how the keyword engages Black history, reveal how the term has changed over time within social and intellectual contexts, and fit the keyword into an intellectual genealogy of Black Louisiana history.
+Keywords offer a dynamic description of a word or concept attuned to the specificities of Black life. Erica R. Edwards, Roderick A. Ferguson, and Jeffrey O. G. Ogbar describe the exercise of cataloguing keywords as "an intellectual practice that has served as a way of expanding and undoing assumptions about knowledge and power as those categories operate in our everyday lives." Following their practice, with the keywords that we have identified from the documents, we are developing descriptions that detail how the keyword engages Black history, reveal how the term has changed over time within social and intellectual contexts, and fit the keyword into an intellectual genealogy of Black Louisiana history.
 
 The list of keywords that we use across the archive changes and grows as part of the research process. The current list includes…
 
@@ -17,5 +17,5 @@ abuse | Africa | Afro-Indigeneity | army | auction | boyhood | burial | care | C
   
   
   
-Note:  
-[^1]: Erica R. Edwards, Roderick A. Ferguson, and Jeffrey O. G. Ogbar, eds., *Keywords for African American Studies,* (New York: New York University Press, 2018)
+   
+Erica R. Edwards, Roderick A. Ferguson, and Jeffrey O. G. Ogbar, eds., *Keywords for African American Studies,* (New York: New York University Press, 2018)
