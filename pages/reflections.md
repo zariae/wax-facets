@@ -4,9 +4,22 @@ title: Reflections
 permalink: /reflections/
 ---
 
-# Based on a True Story
-
 *Below, please find art, prose and other reflections inspired by the Black lives in these documents. Thank you to our [Community Circle and Advisory Board](https://docs.k4bl.org/kccab/) for allowing us to learn from you.*
+
+## Fluidity by Dianne "Gumbo Marie" Honoré (Keywords Community Circle and Advisory Board Member, joined in 2022)
+
+![Flyer for Healing Event hosted by Dianne Honore](/assets/figures/honorehealingfall.png)  
+
+The Keywords project has been an insightful, deep learning process. Following our meetings I often reflect on the stories we review and the personal insights we share at days end. Reading through the documents gives a microscopic view of certain incidents and topics affecting colonial life in Louisiana but upon further investigation, digging through the verbiage, reading between the lines and angles of the written document we gain a well-rounded kaleidoscopic view of what it meant to live during colonial times. The keywords become gold nuggets in the process. I personally relate to several of the documented stories including Catharina’s Value. Being a Destrehan descendant it was moving to further explore that history. Also, Mama Comba’s Gumbeaux is significant in that I teach Creole foodways and descend from a long line of cooks from the enslaved to today. 
+
+Last year, 2023 when we were asked to leave one word of insight at the table, I chose the word “fluidity”. After the day of discussion and discovery I was feeling the weight of our history and how we must keep moving forward in a positive way, to not get stuck in a dark space because our history can be heavy. That in turn influenced my Black Masking suit creation for the next year. The name of the suit is Fluidity. The suit is reflective of the overall healing message from being involved with the Keywords project.  The workshops also influenced a program I produce called Healing Through History. I am reviving the program in September to include a full day of speakers, performances for healing purposes, discussions on learning about historical trauma and cultural healing. How we give voice, how we listen to them, how we document and make them more widely accessible for others to hear, how we take the lessons and heal moving forward. Moving forward through the waters of renewal. Rebaptizing the spirit. 
+
+Please see below for beaded pieces for the Fluidity suit. They are not yet complete and shaped, but the essence is present.  
+
+![Honore Black Masking Fluidity Suit Image 1](/assets/figures/honoreblackmasking1.png)  
+
+![Honore Black Masking Fluidity Suit Image 2](/assets/figures/honoreblackmasking2.png)  
+
 
 ## Famille of Louise Baptiste MEUILLON by Alex Lee (Keywords Community Circle and Advisory Board Member, joined in 2023)
 
@@ -26,7 +39,7 @@ We were both out early, enjoying the couple of hours outside of the coffee shop 
 
 The curious man stuck out his phone in my direction, pointing at a square on the California African American Museum’s Instagram grid. There I was in the film still, speaking to the camera on an almost floor to ceiling screen.  
 
-![Canal St. planting date palm trees on February 1, 1958. Photograph by Plaideau and Courtesy of the City Archives Digital Collections at the New Orleans Public Library, New Orleans, Louisiana.](assets/figures/kkrcanalstreet231kb.jpg)  
+![Canal St. planting date palm trees on February 1, 1958. Photograph by Plaideau and Courtesy of the City Archives Digital Collections at the New Orleans Public Library, New Orleans, Louisiana.](/assets/figures/kkrcanalstreet231kb.jpg)  
 
 “No,” I answered. “People mistake us all the time though. She’s a woman I used to know.”  
 
@@ -41,8 +54,10 @@ In his 2015 book Slaves of One Master: Globalization and Slavery in Arabia in th
 Louisiana in the 1730s required slaveholders to record and report when the people they held in bondage ran away. Through both the initial reports and later documents filed in their pursuit, compiled by Keywords for Black Louisiana, I encountered two Bambara men, Vulcan and Antoine (a double amputee), as well as a woman, Fanchon of the Senegal nation, who had fled to Cuba in the summer of 1739. The trio were assisted by another enslaved person, described as a “Spanish mulatress,” in stealing a pirogue and were never seen in Louisiana again. When their whereabouts were sought years later, it was reported that Fanchon had passed away, and that Antoine lived in the woods, while Vulcan sold beer in Havana. I wonder what names they called themselves, each other. What answers they gave the authorities, their neighbors when questioned about their identities.  
 
 Read the entire essay, published at *The Burnaway* [here](https://burnaway.org/magazine/letter-from-new-orleans-never-can-say-goodbye/)
+    
+## The Black & Indigenous Research Adventure by Mona Lisa Saloy (Keywords Community Circle and Advisory Board Member, joined in 2022)  
 
-## The Black & Indigenous Research Adventure by Mona Lisa Saloy (Keywords Community Circle and Advisory Board Member, joined in 2022)
+![Big Chief David Montana, Loyola University Community and Resilience Collection](/assets/figures/bigchiefdavidmontana.jpeg)
 
 **Africans, their Descendants & Indigenous Connections #HonorNativeLand!**
 
@@ -59,3 +74,14 @@ While some Black Creoles (descendants of mixed-enslaved Africans born in the New
 It is this intersection of discovery that led me to embrace the Keywords for Black Louisiana project and it’s development of the digital collection of enslaved testimony from French and Spanish Louisiana. Literally desperate to learn specifics of cultural, historic connections and legacies earned between African descendants and Indigenous of the New World, we began and dug deep. Of course, outside of wanting to answer the questions above, there’s a need to fill in the blanks for curricular updates in Black American literature courses as well as American Literature and Multi-cultural literature classes that are taught within the context of the forces that gave rise to those works….  
 
 As an author, Folklorist, scholar, Keywords’ Black & Indigenous project contributes to scholarly knowledge in English, Folklore, History, and literature, and to the general public’s understanding of this place. Final results will add to curricular reform and publications and is directly relevant to research themes of my work as an author of creative works, in Folklore, literature, and scholarship.
+
+## Langston Hughes' "The Negro Speaks of Rivers" offered by Angela Proctor (Keywords Community Circle and Advisory Board Member, joined in 2023)  
+
+![Screenshot of Hughes poem](/assets/figures/hughesriversproctor.png) 
+
+
+
+
+
+
+
