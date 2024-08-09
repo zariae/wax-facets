@@ -54,11 +54,11 @@ Sheridan Libraries is a sustaining, institutional, and technology partner and co
   
 The tree representing the LifexCode collective in our new logo is called a mangrove:  
  
-mangrove: “any of a genus of tropical maritime trees or shrubs that send out many prop roots and form dense masses important in coastal land building and as foundations of unique ecosystems.” Webster’s English Dictionary  
+*mangrove: “any of a genus of tropical maritime trees or shrubs that send out many prop roots and form dense masses important in coastal land building and as foundations of unique ecosystems.” Webster’s English Dictionary*
 
 Like the mangrove, we labor to transform the salt of enclosure into sweet water and nutrients, rooting deep at the edge of the sea to support and protect ecosystems teeming with resistant and resilient life.  
 
-Tree Image Credit: @ChattPan on Canva  
+(Tree Image Credit: @ChattPan on Canva)
 
 ## Sponsors and Thank Yous  
 
