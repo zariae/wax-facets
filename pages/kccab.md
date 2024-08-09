@@ -3,8 +3,6 @@ layout: page
 title: Keywords Community Circle Advisory Board
 permalink: /kccab/
 ---
-# The Keywords Community Circle and Advisory Board
-
 ![Keywords Black History in Louisiana Summer Workshop II Group Pic (2023)](/assets/figures/2023kccabgrouppic555kb.jpeg)  
 
 
