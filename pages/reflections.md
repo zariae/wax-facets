@@ -4,8 +4,6 @@ title: Reflections
 permalink: /reflections/
 ---
 
-# Based on a True Story: Reflections on Keywords for Black Louisiana 
-
 *Below, please find art, prose and other reflections inspired by the Black lives in these documents. Thank you to our [Community Circle and Advisory Board](https://docs.k4bl.org/kccab/) for allowing us to learn from you.*
 
 ## Fluidity by Dianne "Gumbo Marie" Honoré (Keywords Community Circle and Advisory Board Member, joined in 2022)
