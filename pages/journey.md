@@ -29,7 +29,7 @@ In 2024, K4BL transitioned from a two year NHPRC-Mellon planning grant and was a
   
 The stories in these documents describe the lives and resistance of enslaved and free people of African descent against bondage, colonialism, and the everyday terror of slavery. Access to the stories of Black life in these documents has been limited to those trained in paleography with French and/or Spanish translation skills. Our hope is that by providing access to the stories in these documents through English-language translations, we can offer researchers, teachers, public historians, and artists access to the centuries-long freedom struggle Black communities have been engaged in.  
 
-
+!["Orfèvre ou Forgeron negré" in Renè Claude Geoffroy de Villeneuve, L'Afrique, ou histoire, moeurs, usages et coutumes des africains: le Sènègal (Paris, 1814), vol. 4, facing p. 178 as seen at slaveryimages.org](/assets/figures/1780blacksmithsenegal.jpeg)  
 
 ## Values  
 
