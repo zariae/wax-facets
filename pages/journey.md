@@ -6,8 +6,6 @@ permalink: /journey/
   
 ![Keywords Black History in Louisiana Summer Workshop II (2023)](/assets/figures/stlandrykccab2023.jpg)  
 
-<img src="https://github.com/lxcprojects/keywords/blob/main/assets/figures/stlandrykccab2023.jpg" width="800" >
-
 
 ## What is Keywords for Black Louisiana?
 
