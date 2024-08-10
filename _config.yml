@@ -93,8 +93,6 @@ menu:
         link: "/keywords_descriptions/"
       - label: "People"
         link: "/people/"
-      - label: "Stories"
-        link: "https://stories.k4bl.org"
   - label: "Resources"
     sub:
       - link: "/history/"
@@ -107,5 +105,7 @@ menu:
         link: "https://github.com/lxcprojects/k4bl"
       - label: "Contact Us"
         link: "/contact/"
+  - label: "Stories"
+    link: "https://stories.k4bl.org"
   - label: "Search"
     link: "/search/"
